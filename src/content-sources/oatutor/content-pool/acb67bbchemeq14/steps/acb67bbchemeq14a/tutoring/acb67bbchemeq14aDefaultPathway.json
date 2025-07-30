@@ -28,7 +28,7 @@
             "acb67bbchemeq14a-h2"
         ],
         "title": "Counting Moles of Gas",
-        "text": "Count the moles of gas on each side of the reaction: CO2(g)+H2(g)\u21ccCO(g)+H2O(g). Which side has more moles of gas?",
+        "text": "Count the moles of gas on each side of the reaction: CO\u2082(g) + H\u2082(g) \u21cc CO(g) + H\u2082O(g). Which side has more moles of gas?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -40,7 +40,7 @@
             "acb67bbchemeq14a-h3"
         ],
         "title": "Comparing Moles of Gas",
-        "text": "The left side has $$2$$ moles of gas (CO2 and H2), and the right side also has $$2$$ moles of gas (CO and H2O).",
+        "text": "The left side has $$2$$ moles of gas (CO_2 and H_2), and the right side also has $$2$$ moles of gas (CO and H_2O).",
         "variabilization": {},
         "oer": "openai",
         "license": ""

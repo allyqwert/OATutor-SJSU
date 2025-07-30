@@ -44,17 +44,5 @@
         "variabilization": {},
         "oer": "openai",
         "license": ""
-    },
-    {
-        "id": "acb67bbchemeq12c-h5",
-        "type": "hint",
-        "dependencies": [
-            "acb67bbchemeq12c-h4"
-        ],
-        "title": "Conclusion",
-        "text": "Consider which side of the reaction releases heat. The equilibrium will shift towards the side that compensates for the cooling by releasing heat.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
     }
 ]

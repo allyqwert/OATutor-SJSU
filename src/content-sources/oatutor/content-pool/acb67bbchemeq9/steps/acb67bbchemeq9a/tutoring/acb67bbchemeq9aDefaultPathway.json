@@ -16,7 +16,7 @@
             "acb67bbchemeq9a-h1"
         ],
         "title": "Setting Up the ICE Table",
-        "text": "An ICE table helps track the initial concentrations, the change in concentrations, and the equilibrium concentrations of the species involved in the reaction. Start by writing down the initial concentration of HCN and assume the initial concentrations of H+ and CN- are zero.",
+        "text": "An ICE table helps track the initial concentrations, the change in concentrations, and the equilibrium concentrations of the species involved in the reaction. Start by writing down the initial concentration of HCN and assume the initial concentrations of H+ and CN- are zero.\\n##figure1.gif##",
         "variabilization": {},
         "oer": "openai",
         "license": ""

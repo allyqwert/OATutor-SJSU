@@ -32,29 +32,5 @@
         "variabilization": {},
         "oer": "openai",
         "license": ""
-    },
-    {
-        "id": "acb67bbchemeq8d-h4",
-        "type": "hint",
-        "dependencies": [
-            "acb67bbchemeq8d-h3"
-        ],
-        "title": "Heterogeneous Equilibrium",
-        "text": "In a heterogeneous equilibrium, only the concentrations of gases and aqueous solutions are included in the equilibrium expression. Solids and liquids are not included.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "acb67bbchemeq8d-h5",
-        "type": "hint",
-        "dependencies": [
-            "acb67bbchemeq8d-h4"
-        ],
-        "title": "Solubility Product (Ksp)",
-        "text": "The solubility product constant, Ksp, is used for sparingly soluble salts. It is the product of the concentrations of the ions, each raised to the power of their coefficients in the balanced equation.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
     }
 ]

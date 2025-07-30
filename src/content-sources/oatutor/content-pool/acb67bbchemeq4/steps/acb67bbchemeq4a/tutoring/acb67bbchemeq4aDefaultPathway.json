@@ -28,7 +28,7 @@
             "acb67bbchemeq4a-h2"
         ],
         "title": "Writing the Equilibrium Expression",
-        "text": "Since only CO2 is in the gaseous phase, the equilibrium expression $$K_p$$ will only include the partial pressure of CO2. Solids like CaCO3 and CaO do not appear in the expression.",
+        "text": "Since only $$CO_2$$ is in the gaseous phase, the equilibrium expression $$K_p$$ will only include the partial pressure of $$CO_2$$. Solids like $$CaCO_3$$ and CaO do not appear in the expression.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -40,19 +40,7 @@
             "acb67bbchemeq4a-h3"
         ],
         "title": "Formulating $$K_p$$",
-        "text": "The equilibrium constant expression for the reaction is $$K_p=[CO2]$$. This is because the concentration of solids is constant and does not affect the equilibrium.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "acb67bbchemeq4a-h5",
-        "type": "hint",
-        "dependencies": [
-            "acb67bbchemeq4a-h4"
-        ],
-        "title": "Finalizing the Expression",
-        "text": "Ensure that your final expression for $$K_p$$ is written correctly, with $$K_p=$$ followed by the concentration of CO2 in brackets.",
+        "text": "The equilibrium constant expression for the reaction is $$K_p=[CO_2]$$. This is because the concentration of solids is constant and does not affect the equilibrium.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

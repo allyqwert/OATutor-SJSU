@@ -39,18 +39,6 @@
         "dependencies": [
             "acb67bbchemeq8e-h3"
         ],
-        "title": "Calculating Q",
-        "text": "To calculate Q, use the formula: $$Q=\\frac{products}{reactants}$$, where the concentrations of products and reactants are raised to the power of their coefficients in the balanced equation.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "acb67bbchemeq8e-h5",
-        "type": "hint",
-        "dependencies": [
-            "acb67bbchemeq8e-h4"
-        ],
         "title": "Direction of Shift",
         "text": "After calculating Q, compare it to K. If $$Q<K$$, the system will shift to the right, favoring the formation of products to reach equilibrium.",
         "variabilization": {},

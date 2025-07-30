@@ -28,7 +28,7 @@
             "acb67bbchemeq12a-h2"
         ],
         "title": "Identifying the Added Substance",
-        "text": "In this scenario, N2O is added to the equilibrium mixture. Identify whether N2O is a reactant or a product in the given reaction.",
+        "text": "In this scenario, $$N_2 O$$ is added to the equilibrium mixture. Identify whether $$N_2 O$$ is a reactant or a product in the given reaction.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -40,7 +40,7 @@
             "acb67bbchemeq12a-h3"
         ],
         "title": "Direction of Equilibrium Shift",
-        "text": "Since N2O is a product, adding it will cause the equilibrium to shift to the left to reduce the concentration of N2O.",
+        "text": "Since $$N_2 O$$ is a product, adding it will cause the equilibrium to shift to the left to reduce the concentration of $$N_2 O$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
