@@ -9,7 +9,7 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "$$HF(aq)+H_2O(l) \\rightleftharpoons F^{-}(aq)+H_3O^{+}(aq)$$ or $$HF(aq) \rightleftharpoons F^{-}(aq)+H^{+}(aq)$$",
+        "$$HF(aq)+H_2O(l) \\rightleftharpoons F^{-}(aq)+H_3O^{+}(aq)$$ or $$HF(aq) \\rightleftharpoons F^{-}(aq)+H^{+}(aq)$$",
         "$$HF(aq) \\rightleftharpoons H^{+}(aq)+F^{-}(aq)$$",
         "$$HF(aq)+H_2O(l) \\rightleftharpoons HF_2^{-}(aq)+H_3O^{+}(aq)$$",
         "$$HF(aq)+OH^{-}(aq) \\rightleftharpoons F^{-}(aq)+H_2O(l)$$"
