@@ -16,21 +16,16 @@
             "ae40a3eacidbase8a-h1"
         ],
         "title": "Using the pH Formula",
-        "text": "The pH of a solution is calculated using the formula: $$pH=-\\log_{10}\\left([H\u207a]\\right)$$. Use this formula to find the pH of the solution.",
+        "text": "The pH of a solution is calculated using the formula: $$pH=-log[H^{+}]$$. Use this formula to find the pH of the solution.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "ae40a3eacidbase8a-h3",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$0.56$$"
-        ],
+        "type": "hint",
         "dependencies": [
-            "ae40a3eacidbase8a-h1"
+            "ae40a3eacidbase8a-h2"
         ],
         "title": "Calculate the Hydrogen Ion Concentration",
         "text": "Since HCl is a strong acid, the concentration of H\u207a ions is the same as the concentration of HCl. Therefore, $$[H\u207a]=0.560$$ M.",
@@ -50,7 +45,7 @@
             "ae40a3eacidbase8a-h3"
         ],
         "title": "Calculate the pH",
-        "text": "Use the formula $$pH=-\\log_{10}\\left([H\u207a]\\right)$$ with $$[H\u207a]=0.560$$ to find the pH.",
+        "text": "Use the formula $$pH=-log[H^{+}]$ with $$[H\u207a]=0.560$$ to find the pH.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

@@ -39,8 +39,8 @@
         "dependencies": [
             "ae40a3eacidbase17d-h3"
         ],
-        "title": "Using the pkb Value",
-        "text": "The pkb value from question c is needed to find the concentration of the weak base. Use the relationship: pkb $$=$$ $$-\\ln\\left(kb\\right)$$ to find kb.",
+        "title": "Using the $$pK_b$$ Value",
+        "text": "The $$pK_b$$ value from question c is needed to find the concentration of the weak base. Use the relationship: $$pK_b=-log(K_b)$$ to find K_b.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -57,7 +57,7 @@
             "ae40a3eacidbase17d-h4"
         ],
         "title": "Calculating the Concentration of the Weak Base",
-        "text": "Use the formula: [B] $$=$$ $${[OH**-]}^2$$ / kb to find the concentration of the weak base.",
+        "text": "Use the formula: $$[B]=\\frac{{[OH^{-}]}^2}{K_b}$$ to find the concentration of the weak base.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

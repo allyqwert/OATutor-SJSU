@@ -16,7 +16,7 @@
             "ae40a3eacidbase6c-h1"
         ],
         "title": "Identify the Parent Acid and Base",
-        "text": "For Na+F-, identify the acid and base that form this salt. Na+ comes from NaOH, a strong base, and F- comes from HF, a weak acid.",
+        "text": "For $$Na^{+}F^{-}$$, identify the acid and base that form this salt. $$Na^{+}$$ comes from NaOH, a strong base, and $$F^-$$ comes from HF, a weak acid.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,7 +33,7 @@
             "ae40a3eacidbase6c-h2"
         ],
         "title": "Determine the Salt Type",
-        "text": "Given that Na+ comes from a strong base and F- comes from a weak acid, what type of salt is Na+F-?",
+        "text": "Given that $$Na^{+}$$ comes from a strong base and $$F^{-}$$ comes from a weak acid, what type of salt is $$Na^{+}F^{-}$$?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

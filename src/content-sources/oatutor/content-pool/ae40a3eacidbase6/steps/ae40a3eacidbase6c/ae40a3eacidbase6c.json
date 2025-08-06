@@ -4,14 +4,13 @@
         "Basic Salt"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Na+F-",
+    "stepTitle": "$$Na^{+}F^{-}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
     "choices": [
         "Basic Salt",
         "Neutral Salt",
-        "Acidic Salt",
-        "Basic Salt"
+        "Acidic Salt"
     ]
 }

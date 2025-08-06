@@ -74,7 +74,7 @@
             "ae40a3eacidbase11a-h5"
         ],
         "title": "Solve for OH- Concentration",
-        "text": "Using the Kb expression: Kb $$=$$ $$\\frac{[HF][OH-]/[F-][HF][OH-]/[F-]}{[HF][OH-]/[F-]}$$, solve for the concentration of OH- at equilibrium.",
+        "text": "Using the $$K_b$$ expression: $$K_b=\\frac{[HF][OH-]}{[F-]}$$, solve for the concentration of OH- at equilibrium. Calculate your answer in scientific notation to the second decimal place.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -103,7 +103,7 @@
             "ae40a3eacidbase11a-h7"
         ],
         "title": "Find pOH",
-        "text": "Calculate pOH using the concentration of OH-: pOH $$=$$ $$-\\ln\\left(1.71\\times{10}^{-6}\\right)$$.",
+        "text": "Calculate pOH using the concentration of OH-: $$pOH=-log(1.71*10^{-6})$$. Calculate your answer to the second decimal place.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

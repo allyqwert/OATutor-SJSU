@@ -16,7 +16,7 @@
             "ae40a3eacidbase6e-h1"
         ],
         "title": "Identify the Components",
-        "text": "K+CN- is derived from KOH (a strong base) and HCN (a weak acid).",
+        "text": "$$K^{+}CN^{-}$$ is derived from KOH (a strong base) and HCN (a weak acid).",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,7 +33,7 @@
             "ae40a3eacidbase6e-h2"
         ],
         "title": "Determine the Salt Type",
-        "text": "Given that KOH is a strong base and HCN is a weak acid, what type of salt is K+CN-?",
+        "text": "Given that KOH is a strong base and HCN is a weak acid, what type of salt is $$K^{+}CN^{-}$$?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

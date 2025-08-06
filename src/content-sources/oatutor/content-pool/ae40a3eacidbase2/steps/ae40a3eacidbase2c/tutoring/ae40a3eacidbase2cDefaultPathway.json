@@ -16,7 +16,7 @@
             "ae40a3eacidbase2c-h1"
         ],
         "title": "Identify the Base",
-        "text": "Look at the given species, HPO4**2-. What happens if it gains a proton?",
+        "text": "Look at the given species, $$HPO_4^{2-}$$. What happens if it gains a proton?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,13 +27,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "H2PO4-"
+            "$$H_2PO_4^{-}$$"
         ],
         "dependencies": [
             "ae40a3eacidbase2c-h2"
         ],
         "title": "Add a Proton",
-        "text": "Add an H+ to HPO4**2-. What is the resulting chemical formula?",
+        "text": "Add an $$H^+$$ to $$HPO_4^{2-}$$. What is the resulting chemical formula?",
         "variabilization": {},
         "oer": "openai",
         "license": ""

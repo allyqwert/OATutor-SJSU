@@ -1,10 +1,10 @@
 {
     "id": "ae40a3eacidbase2c",
     "stepAnswer": [
-        "H2PO4-"
+        "$$H_2PO_4^{-}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "HPO4**2-",
+    "stepTitle": "$$HPO_4^{2-}$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {}

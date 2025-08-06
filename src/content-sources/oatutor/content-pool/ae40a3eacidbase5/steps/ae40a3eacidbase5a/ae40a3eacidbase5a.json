@@ -4,14 +4,13 @@
         "Acidic"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Identify the solution as Acidid, Basic or Neutral",
+    "stepTitle": "Identify the solution as Acidic, Basic or Neutral",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
     "choices": [
         "Basic",
         "Neutral",
-        "Acidic",
         "Acidic"
     ]
 }

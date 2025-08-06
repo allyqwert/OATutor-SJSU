@@ -16,7 +16,7 @@
             "ae40a3eacidbase6d-h1"
         ],
         "title": "Identify the Components",
-        "text": "NaCl is formed from NaOH (a strong base) and HCl (a strong acid). What does this imply about the nature of NaCl?",
+        "text": "$$Na^{+}Cl^{-}$$ is formed from NaOH (a strong base) and HCl (a strong acid). What does this imply about the nature of $$Na^{+}Cl^{-}$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "ae40a3eacidbase6d-h2"
         ],
-        "title": "Classify NaCl",
-        "text": "Given that NaCl is derived from a strong acid and a strong base, what type of salt is it?",
+        "title": "Classify $$Na^{+}Cl^{-}$$",
+        "text": "Given that $$Na^{+}Cl^{-}$$ is derived from a strong acid and a strong base, what type of salt is it?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

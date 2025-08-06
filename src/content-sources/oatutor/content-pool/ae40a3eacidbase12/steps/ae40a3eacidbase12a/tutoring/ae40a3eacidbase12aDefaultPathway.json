@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the Type of Solution",
-        "text": "This problem involves a weak acid (HC2H3O2) and its conjugate base (C2H3O2Na). What type of solution does this create?",
+        "text": "This problem involves a weak acid ($$HC_2H_3O_2$$) and its conjugate base ($$C_2H_3O_2Na$$). What type of solution does this create?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -23,12 +23,7 @@
     },
     {
         "id": "ae40a3eacidbase12a-h3",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "pH=pKa+log{[A-]/[HA]}"
-        ],
+        "type": "hint",
         "dependencies": [
             "ae40a3eacidbase12a-h2"
         ],
@@ -56,7 +51,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$pKa=4.74$$"
+            "$$4.74$$"
         ],
         "dependencies": [
             "ae40a3eacidbase12a-h4"

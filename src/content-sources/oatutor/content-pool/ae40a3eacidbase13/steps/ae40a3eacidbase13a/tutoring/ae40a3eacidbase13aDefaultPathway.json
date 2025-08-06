@@ -28,7 +28,7 @@
             "ae40a3eacidbase13a-h2"
         ],
         "title": "Solving for the Concentration Ratio",
-        "text": "Rearrange the Henderson-Hasselbalch equation to solve for the ratio $$\\frac{[A-]/[HA]}{[A-]/[HA]}$$.",
+        "text": "Rearrange the Henderson-Hasselbalch equation to solve for the ratio $$\\frac{[A-]}{[HA]}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -52,7 +52,7 @@
         "choices": [
             "$$[HC6H5COO]=[C6H5COO-]$$",
             "$$[C6H5COO-]=10[HC6*H5*COO]$$",
-            "$$[C6H5COO-]=\\frac{1}{10} [HC6*H5*COO]$$"
+            "$$[C6H5COO-]=\\frac{1}{10}[HC6*H5*COO]$$"
         ]
     }
 ]

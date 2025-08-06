@@ -1,11 +1,17 @@
 {
     "id": "ae40a3eacidbase2b",
     "stepAnswer": [
-        "HCN"
+        "$$HCN$$"
     ],
-    "problemType": "TextBox",
-    "stepTitle": "CN**-",
+    "problemType": "MultipleChoice",
+    "stepTitle": "$$CN^-$$",
     "stepBody": "",
-    "answerType": "arithmetic",
-    "variabilization": {}
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "$$NH_3$$",
+        "$$HCN$$",
+        "$$CN_2$$",
+        "$$H_2CN$$"
+    ]
 }

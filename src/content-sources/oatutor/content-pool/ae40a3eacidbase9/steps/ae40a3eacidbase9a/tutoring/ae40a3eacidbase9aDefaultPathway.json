@@ -57,7 +57,7 @@
             "ae40a3eacidbase9a-h4"
         ],
         "title": "Calculate $$x$$",
-        "text": "Solve the simplified equation for x: $$x^2$$ $$=$$ $$6.8\\times{10}^{-4}$$ * $$0.560$$. Then, find $$x$$ by taking the square root of the result.",
+        "text": "Solve the simplified equation for x: $$x^2$$ $$=$$ $$6.8\\times{10}^{-4}$$ * $$0.560$$. Then, find $$x$$ by taking the square root of the result. Calculate your answer to the fourth decimal place.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -86,7 +86,7 @@
             "ae40a3eacidbase9a-h6"
         ],
         "title": "Final pH Calculation",
-        "text": "Substitute the value of $$x$$ (H\u207a concentration) into the pH formula: pH $$=$$ $$-\\ln\\left(0.0195\\right)$$.",
+        "text": "Substitute the value of $$x$$ (H\u207a concentration) into the pH formula: $$pH=-log(0.0195)$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

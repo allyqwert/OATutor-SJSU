@@ -1,10 +1,10 @@
 {
     "id": "ae40a3eacidbase2a",
     "stepAnswer": [
-        "HCO3-"
+        "$$HCO_3^{-}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "CO3**(2-)",
+    "stepTitle": "$$CO_3^{2-}$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {}

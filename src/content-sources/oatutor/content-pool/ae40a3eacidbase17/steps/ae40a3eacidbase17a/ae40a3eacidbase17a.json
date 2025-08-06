@@ -1,12 +1,17 @@
 {
     "id": "ae40a3eacidbase17a",
     "stepAnswer": [
-        "$$4.5$$"
+        "4.5"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "What is the approximate pH at the equivalence point of the titration plot?",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$4.5$$"
+    "choices": [
+        "3",
+        "4.5",
+        "6",
+        "9"
+    ]
 }

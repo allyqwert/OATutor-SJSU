@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Conjugate Acids",
-        "text": "A conjugate acid is formed when a base gains a proton (H+). Think about what happens when CO3**(2-) gains a proton.",
+        "text": "A conjugate acid is formed when a base gains a proton ($$H^+$$). Think about what happens when $$CO_3^{2-}$$ gains a proton.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "ae40a3eacidbase2a-h1"
         ],
         "title": "Identify the Base",
-        "text": "CO3**(2-) is a base. What happens when it accepts a proton (H+)?",
+        "text": "$$CO_3^{2-}$$ is a base. What happens when it accepts a proton ($$H^+$$)?",
         "variabilization": {},
         "oer": "openai",
         "license": ""

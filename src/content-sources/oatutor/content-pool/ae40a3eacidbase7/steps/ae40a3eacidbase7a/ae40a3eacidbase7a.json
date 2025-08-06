@@ -1,11 +1,17 @@
 {
     "id": "ae40a3eacidbase7a",
     "stepAnswer": [
-        "HF (aq) + H2O (l) \u21cc F- (aq) + H3O+ (aq)"
+        "$$HF(aq)+H_2O(l) \rightleftharpoons F^{-}(aq)+H_3O^{+}(aq)$$ or $$HF(aq) \rightleftharpoons F^{-}(aq)+H^{+}(aq)$$"
     ],
-    "problemType": "TextBox",
-    "stepTitle": "Write the dissociation equation for HF When it is dissolved in water (H2O)",
+    "problemType": "MultipleChoice",
+    "stepTitle": "Write the dissociation equation for HF When it is dissolved in water ($$H_2O$$)",
     "stepBody": "",
-    "answerType": "arithmetic",
-    "variabilization": {}
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "$$HF(aq)+H_2O(l) \rightleftharpoons F^{-}(aq)+H_3O^{+}(aq)$$ or $$HF(aq) \rightleftharpoons F^{-}(aq)+H^{+}(aq)$$",
+        "$$HF(aq) \rightleftharpoons H^{+}(aq)+F^{-}(aq)$$",
+        "$$HF(aq)+H_2O(l) \rightleftharpoons HF_2^{-}(aq)+H_3O^{+}(aq)$$",
+        "$$HF(aq)+OH^{-}(aq) \rightleftharpoons F^{-}(aq)+H_2O(l)$$"
+    ]
 }

@@ -16,7 +16,7 @@
             "ae40a3eacidbase6b-h1"
         ],
         "title": "Identify the Parent Acid and Base",
-        "text": "For Na+CH3COO-, identify the acid and base that form this salt. Sodium acetate is derived from acetic acid (CH3COOH) and sodium hydroxide (NaOH).",
+        "text": "For $$Na^{+}CH_3COO^{-}$$, identify the acid and base that form this salt. Sodium acetate is derived from acetic acid ($$CH_3COOH$$) and sodium hydroxide (NaOH).",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -28,7 +28,7 @@
             "ae40a3eacidbase6b-h2"
         ],
         "title": "Determine the Strength of the Acid and Base",
-        "text": "Acetic acid (CH3COOH) is a weak acid, and sodium hydroxide (NaOH) is a strong base. What does this imply about the nature of the salt?",
+        "text": "Acetic acid ($$CH_3COOH$$) is a weak acid, and sodium hydroxide (NaOH) is a strong base. What does this imply about the nature of the salt?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -45,7 +45,7 @@
             "ae40a3eacidbase6b-h3"
         ],
         "title": "Classify the Salt",
-        "text": "Based on the strength of the parent acid and base, classify Na+CH3COO- as acidic, basic, or neutral.",
+        "text": "Based on the strength of the parent acid and base, classify $$Na^{+}CH_3COO^{-}$$ as acidic, basic, or neutral.",
         "variabilization": {},
         "oer": "openai",
         "license": "",

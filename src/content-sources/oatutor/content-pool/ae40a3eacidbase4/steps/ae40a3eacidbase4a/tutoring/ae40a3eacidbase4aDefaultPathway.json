@@ -16,7 +16,7 @@
             "ae40a3eacidbase4a-h1"
         ],
         "title": "Analyzing Acid A",
-        "text": "In the image of Acid A, observe the proportion of HA molecules to A\u207b and H\u2083O\u207a ions. Does it look like most of the acid is dissociated or undissociated?",
+        "text": "In the image of Acid A, observe the proportion of HA molecules to A\u207b and H\u2083O\u207a ions. Does it look like most of the acid is dissociated or associated?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -28,7 +28,7 @@
             "ae40a3eacidbase4a-h1"
         ],
         "title": "Analyzing Acid B",
-        "text": "In the image of Acid B, observe the proportion of HA molecules to A\u207b and H\u2083O\u207a ions. Does it look like most of the acid is dissociated or undissociated?",
+        "text": "In the image of Acid B, observe the proportion of HA molecules to A\u207b and H\u2083O\u207a ions. Does it look like most of the acid is dissociated or associated?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -40,7 +40,7 @@
             "ae40a3eacidbase4a-h1"
         ],
         "title": "Analyzing Acid C",
-        "text": "In the image of Acid C, observe the proportion of HA molecules to A\u207b and H\u2083O\u207a ions. Does it look like most of the acid is dissociated or undissociated?",
+        "text": "In the image of Acid C, observe the proportion of HA molecules to A\u207b and H\u2083O\u207a ions. Does it look like most of the acid is dissociated or associated?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -57,7 +57,7 @@
             "ae40a3eacidbase4a-h2"
         ],
         "title": "Identifying the Weak Acid",
-        "text": "Which acid shows a significant amount of undissociated HA molecules compared to dissociated ions?",
+        "text": "Which acid shows a significant amount of associated HA molecules compared to dissociated ions?",
         "variabilization": {},
         "oer": "openai",
         "license": "",

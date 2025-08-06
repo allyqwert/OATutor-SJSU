@@ -16,31 +16,21 @@
             "ae40a3eacidbase6a-h1"
         ],
         "title": "Identify the Parent Acid and Base",
-        "text": "NH4+Cl- is formed from NH4OH (a weak base) and HCl (a strong acid). What does this tell you about the nature of the salt?",
+        "text": "$$NH_4^+Cl^-$$ is formed from $$NH_4OH$$ (a weak base) and HCl (a strong acid). What does this tell you about the nature of the salt?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "ae40a3eacidbase6a-h3",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [
-            "Acidic Salt"
-        ],
+        "type": "hint",
         "dependencies": [
             "ae40a3eacidbase6a-h2"
         ],
         "title": "Determine the Salt Type",
-        "text": "Since NH4+Cl- is derived from a weak base and a strong acid, it is classified as an acidic salt.",
+        "text": "Since $$NH_4^+Cl^-$$ is derived from a weak base and a strong acid, it is classified as an acidic salt.",
         "variabilization": {},
         "oer": "openai",
-        "license": "",
-        "choices": [
-            "Acidic Salt",
-            "Basic Salt",
-            "Neutral Salt"
-        ]
+        "license": ""
     }
 ]

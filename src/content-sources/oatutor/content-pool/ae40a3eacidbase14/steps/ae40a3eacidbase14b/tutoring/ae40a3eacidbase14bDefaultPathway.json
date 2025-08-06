@@ -15,8 +15,8 @@
         "dependencies": [
             "ae40a3eacidbase14b-h1"
         ],
-        "title": "Calculate Moles of NH3",
-        "text": "To find the moles of NH3 in the solution, use the formula: moles $$=$$ concentration * volume. Remember to convert the volume from ml to liters.",
+        "title": "Calculate Moles of NH_3",
+        "text": "To find the moles of NH_3 in the solution, use the formula: moles $$=$$ concentration * volume. Remember to convert the volume from ml to liters.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "ae40a3eacidbase14b-h2"
         ],
-        "title": "Calculate Moles of NH3",
-        "text": "Calculate the moles of NH3 using the formula: moles $$=$$ concentration * volume. Use 1M for concentration and $$0.02L$$ for volume.",
+        "title": "Calculate Moles of NH_3",
+        "text": "Calculate the moles of NH_3 using the formula: moles $$=$$ concentration * volume. Use 1M for concentration and $$0.02L$$ for volume.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -45,7 +45,7 @@
             "ae40a3eacidbase14b-h3"
         ],
         "title": "Determine Volume of HCl Needed",
-        "text": "Once you have the moles of NH3, use the stoichiometry of the reaction to find the volume of HCl needed. The reaction is 1:1, so the moles of HCl needed will be equal to the moles of NH3.",
+        "text": "Once you have the moles of NH_3, use the stoichiometry of the reaction to find the volume of HCl needed. The reaction is 1:1, so the moles of HCl needed will be equal to the moles of NH_3.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -62,7 +62,7 @@
             "ae40a3eacidbase14b-h4"
         ],
         "title": "Calculate Volume of HCl",
-        "text": "Use the formula: volume $$=$$ moles / concentration. Use the moles of NH3 you calculated and the concentration of HCl $$(0.5M)$$ to find the volume in liters.",
+        "text": "Use the formula: volume $$=$$ moles / concentration. Use the moles of NH_3 you calculated and the concentration of HCl $$(0.5M)$$ to find the volume in liters.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

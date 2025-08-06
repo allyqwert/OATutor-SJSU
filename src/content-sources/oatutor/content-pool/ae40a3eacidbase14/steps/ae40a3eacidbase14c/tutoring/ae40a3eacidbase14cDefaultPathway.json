@@ -16,7 +16,7 @@
             "ae40a3eacidbase14c-h1"
         ],
         "title": "Identify the Products",
-        "text": "When NH3 reacts with HCl, it forms NH4+ and Cl-. Think about what happens to NH4+ in water.",
+        "text": "When $$NH_3$$ reacts with HCl, it forms $$NH_4^{+}$$ and $$Cl^{-}$$. Think about what happens to $$NH_4^{+}$$ in water.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "ae40a3eacidbase14c-h2"
         ],
-        "title": "Reaction of NH4+ in Water",
-        "text": "NH4+ can react with water to form NH3 and H3O+. This reaction can affect the pH of the solution.",
+        "title": "Reaction of $$NH_4^{+}$$ in Water",
+        "text": "$$NH_4^{+}$$ can react with water to form $$NH_3$$ and $$H_3O^{+}$$. This reaction can affect the pH of the solution.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -36,8 +36,8 @@
     {
         "id": "ae40a3eacidbase14c-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "NH4+ + H2O \u21cc NH3 + H3O+"
         ],
@@ -45,7 +45,7 @@
             "ae40a3eacidbase14c-h3"
         ],
         "title": "Write the Reaction Equation",
-        "text": "Write the equation for the reaction of NH4+ with water.",
+        "text": "Write the equation for the reaction of $$NH_4^{+}$$ with water.",
         "variabilization": {},
         "oer": "openai",
         "license": "",

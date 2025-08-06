@@ -4,14 +4,13 @@
         "Basic Salt"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "$$K+CN=$$",
+    "stepTitle": "$$K^{+}CN^{-}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
     "choices": [
         "Basic Salt",
         "Neutral Salt",
-        "Acidic Salt",
-        "Basic Salt"
+        "Acidic Salt"
     ]
 }

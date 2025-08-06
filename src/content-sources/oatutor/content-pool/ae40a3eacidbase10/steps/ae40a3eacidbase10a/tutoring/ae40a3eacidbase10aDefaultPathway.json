@@ -16,7 +16,7 @@
             "ae40a3eacidbase10a-h1"
         ],
         "title": "Calculate Hydroxide Ion Concentration",
-        "text": "Use the formula for the base dissociation constant: $$Kb=\\frac{[OH-][NH4+]/[NH3][OH-][NH4+]/[NH3]}{[OH-][NH4+]/[NH3]}$$. Assume $$[OH-]=[NH4+]$$ and solve for [OH-].",
+        "text": "Use the formula for the base dissociation constant: $$Kb=\\frac{[OH^{-}][NH_4^{+}]}{[NH_3]}$$. Assume $$[OH-]=[NH4+]$$ and solve for [OH-].",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,7 +33,7 @@
             "ae40a3eacidbase10a-h2"
         ],
         "title": "Solve for [OH-]",
-        "text": "Given $$Kb=1.8\\times{10}^{-5}$$ and $$[NH3]=0.19$$ M, set up the equation: $$1.8\\times{10}^{-5}=\\frac{{[OH-]}^2}{0.19}$$. Solve for [OH-].",
+        "text": "Given $$Kb=1.8\\times{10}^{-5}$$ and $$[NH3]=0.19$$ M, set up the equation: $$1.8\\times{10}^{-5}=\\frac{{[OH-]}^2}{0.19}$$. Solve for [OH-]. Calculate your answer to the fifth decimal place.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -62,7 +62,7 @@
             "ae40a3eacidbase10a-h4"
         ],
         "title": "Find pOH",
-        "text": "Calculate pOH using the formula: $$pOH=-\\ln\\left(1.85\\times{10}^{-3}\\right)$$.",
+        "text": "Calculate pOH using the formula: $$pOH=-log(1.85*10^{-3})$$. Calculate your answer to the second decimal place.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -85,7 +85,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$11.3$$"
+            "$$11.27$$"
         ],
         "dependencies": [
             "ae40a3eacidbase10a-h6"
