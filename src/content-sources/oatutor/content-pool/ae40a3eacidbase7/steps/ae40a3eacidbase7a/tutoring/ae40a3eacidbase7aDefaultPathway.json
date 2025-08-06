@@ -39,7 +39,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$F^{-}(aq)+H_3O^{+}(aq) \rightleftharpoons HF(aq)+H_2O(l)$$"
+            "$$F^{-}(aq)+H_3O^{+}(aq) \\rightleftharpoons HF(aq)+H_2O(l)$$"
         ],
         "dependencies": [
             "ae40a3eacidbase7a-h3"

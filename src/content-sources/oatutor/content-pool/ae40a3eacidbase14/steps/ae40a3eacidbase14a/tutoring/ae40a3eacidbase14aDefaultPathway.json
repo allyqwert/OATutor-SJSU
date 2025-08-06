@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$NH_3+HCl \rightleftharpoons NH_4^{+}+Cl^{-}$$"
+            "$$NH_3+HCl \\rightleftharpoons NH_4^{+}+Cl^{-}$$"
         ],
         "dependencies": [
             "ae40a3eacidbase14a-h1"
