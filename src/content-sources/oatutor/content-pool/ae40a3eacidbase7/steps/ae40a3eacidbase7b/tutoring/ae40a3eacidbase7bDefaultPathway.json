@@ -24,8 +24,8 @@
     {
         "id": "ae40a3eacidbase7b-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "$$F^{-}$$"
         ],
@@ -36,6 +36,12 @@
         "text": "From the dissociation equation $$HF -> H^{+}+F^{-}$$, identify the conjugate base.",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$F^{-}$$",
+            "$$HF$$",
+            "$$H^{+}$$",
+            "$$H_2F^{+}$$"
+        ]
     }
 ]
