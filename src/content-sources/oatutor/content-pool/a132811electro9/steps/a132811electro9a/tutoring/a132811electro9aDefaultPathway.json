@@ -25,7 +25,7 @@
         "id": "a132811electro9a-h3",
         "type": "scaffold",
         "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "answerType": "string",
         "hintAnswer": [
             "positive"
         ],

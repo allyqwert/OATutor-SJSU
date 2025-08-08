@@ -1,12 +1,17 @@
 {
     "id": "a132811electro7d",
     "stepAnswer": [
-        "$$Co2+aq$$ + 2e \u2192 Co(s)"
+        "$$Co^{2+}(aq) + 2e \\rightarrow Co(s)$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Write the Half Reaction that takes place at Cathode:",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$Co2+aq$$ + 2e \u2192 Co(s)"
+    "choices": [
+        "$$Co^{+}(aq) + e^- \\rightarrow Co(s)$$",
+        "$$Co^{2+}(aq) + 2e \\rightarrow Co(s)$$",
+        "$$Co(s) \\rightarrow Co^{2+}(aq) + 2e^-$$",
+        "$$Co^{2+}(aq) \rightarrow Co(s) + 2e^-$$"
+    ]
 }

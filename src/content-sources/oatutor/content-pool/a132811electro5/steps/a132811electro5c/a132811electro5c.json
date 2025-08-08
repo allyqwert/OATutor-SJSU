@@ -1,12 +1,17 @@
 {
     "id": "a132811electro5c",
     "stepAnswer": [
-        "Zn(s) + Cu2+(aq)\u2192 $$Zn2+aq$$ + Cu(s)"
+        "$$Zn(s) + Cu^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Cu(s)$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Write the overall cell reaction:",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "Zn(s) + Cu2+(aq)\u2192 $$Zn2+aq$$ + Cu(s)"
+    "choices": [
+        "$$Zn(s) + Cu^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Cu(s)$$",
+        "$$Zn^{2+}(aq) + Cu(s) \\rightarrow Zn(s) + Cu^{2+}(aq)$$",
+        "$$Zn(s) + Cu^{+}(aq) \\rightarrow Zn^{2+}(aq) + Cu(s)$$",
+        "$$Zn(s) + Cu^{2+}(aq) \\rightarrow Zn^{+}(aq) + Cu(s)$$"
+    ]
 }

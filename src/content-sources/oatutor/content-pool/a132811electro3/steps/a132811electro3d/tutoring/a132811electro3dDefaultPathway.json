@@ -24,10 +24,10 @@
     {
         "id": "a132811electro3d-h3",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "Ag+ + e \u2192 Ag"
+            "$$Ag^{+}+e \\rightarrow Ag$$"
         ],
         "dependencies": [
             "a132811electro3d-h2"
@@ -36,6 +36,12 @@
         "text": "Write the half-reaction for the species that gains electrons.",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$Ag + e^- \\rightarrow Ag^{-}$$",
+            "$$Ag^{+} \\rightarrow Ag + e^-$$",
+            "$$Ag^{+}+e \\rightarrow Ag$$",
+            "$$Ag^{2+} + 2e^- \\rightarrow Ag$$"
+        ]
     }
 ]

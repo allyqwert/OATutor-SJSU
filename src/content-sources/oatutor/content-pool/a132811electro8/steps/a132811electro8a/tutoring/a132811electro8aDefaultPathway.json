@@ -28,7 +28,7 @@
             "a132811electro8a-h2"
         ],
         "title": "Calculating the Standard Cell Potential",
-        "text": "Use the formula: E\u00b0cell $$=$$ E\u00b0cathode - E\u00b0anode. Substitute the given values for the reduction potentials.",
+        "text": "Use the formula: E\u00b0cell $$=E_{ox}+E_{red}$$. Substitute the given values for the reduction potentials.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -37,21 +37,38 @@
         "id": "a132811electro8a-h4",
         "type": "scaffold",
         "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "answerType": "string",
         "hintAnswer": [
-            "Anode: Mg. Cathode: Cr"
+            "Mg"
         ],
         "dependencies": [
             "a132811electro8a-h1"
         ],
-        "title": "Identify the Anode and Cathode",
-        "text": "Which metal acts as the anode and which as the cathode in this cell?",
+        "title": "Identify the Anode",
+        "text": "Which metal acts as the anode?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
     },
     {
         "id": "a132811electro8a-h5",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": [
+            "Cr"
+        ],
+        "dependencies": [
+            "a132811electro8a-h1"
+        ],
+        "title": "Identify the Cathode",
+        "text": "Which metal acts as the cathode in this cell?",
+        "variabilization": {},
+        "oer": "openai",
+        "license": ""
+    },
+    {
+        "id": "a132811electro8a-h6",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -68,7 +85,7 @@
         "license": ""
     },
     {
-        "id": "a132811electro8a-h6",
+        "id": "a132811electro8a-h7",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -79,7 +96,7 @@
             "a132811electro8a-h3"
         ],
         "title": "Calculate E\u00b0cell",
-        "text": "Calculate the standard cell potential using the formula E\u00b0cell $$=$$ E\u00b0cathode - E\u00b0anode.",
+        "text": "Calculate the standard cell potential using the formula E\u00b0cell $$=E_{ox}+E_{red}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

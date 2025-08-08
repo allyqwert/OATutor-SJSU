@@ -45,7 +45,7 @@
             "a132811electro7f-h3"
         ],
         "title": "Calculate E\u00b0cell",
-        "text": "Use the formula E\u00b0cell $$=$$ E\u00b0cathode - E\u00b0anode. Substitute the values you found from the table.",
+        "text": "Use the formula E\u00b0cell $$=E_{ox}+E_{red}$$. Substitute the values you found from the table.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

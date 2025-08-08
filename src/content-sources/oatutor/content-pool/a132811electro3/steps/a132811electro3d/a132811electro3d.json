@@ -1,11 +1,17 @@
 {
     "id": "a132811electro3d",
     "stepAnswer": [
-        "Ag+ + e \u2192 Ag"
+        "$$Ag^{+}+e \\rightarrow Ag$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Write the reduction half reaction:",
     "stepBody": "",
-    "answerType": "arithmetic",
-    "variabilization": {}
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "$$Ag + e^- \\rightarrow Ag^{-}$$",
+        "$$Ag^{+} \\rightarrow Ag + e^-$$",
+        "$$Ag^{+}+e \\rightarrow Ag$$",
+        "$$Ag^{2+} + 2e^- \\rightarrow Ag$$"
+    ]
 }

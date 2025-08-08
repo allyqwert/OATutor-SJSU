@@ -1,12 +1,17 @@
 {
     "id": "a132811electro7e",
     "stepAnswer": [
-        "Zn(s) + $$Co2+aq$$ \u2192 $$Zn2+aq$$ + Co(s)"
+        "$$Zn(s) + Co^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Co(s)$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Write the overall cell reaction:",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "Zn(s) + $$Co2+aq$$ \u2192 $$Zn2+aq$$ + Co(s)"
+    "choices": [
+        "$$Zn(s) + Co^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Co(s)$$",
+        "$$Zn^{2+}(aq) + Co(s) \\rightarrow Zn(s) + Co^{2+}(aq)$$",
+        "$$Zn(s) + Co^{3+}(aq) \\rightarrow Zn^{2+}(aq) + Co(s)$$",
+        "$$Zn(s) + Co^{2+}(aq) \\rightarrow Zn^{+}(aq) + Co(s)$$"
+    ]
 }

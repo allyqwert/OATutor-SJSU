@@ -35,12 +35,7 @@
     },
     {
         "id": "a132811electro3e-h4",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "Al\u2192Al3++3e-;3Ag++3e-\u21923Ag"
-        ],
+        "type": "hint",
         "dependencies": [
             "a132811electro3e-h3"
         ],

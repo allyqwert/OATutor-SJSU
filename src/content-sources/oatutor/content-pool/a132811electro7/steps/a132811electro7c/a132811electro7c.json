@@ -1,12 +1,17 @@
 {
     "id": "a132811electro7c",
     "stepAnswer": [
-        "Zn(s) \u2192 $$Zn2+aq$$ + 2e"
+        "$$Zn(s) \\rightarrow Zn^{2+}(aq) + 2e$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Write the Half Reaction that takes place at Anode:",
     "stepBody": "",
-    "answerType": "arithmetic",
+    "answerType": "string",
     "variabilization": {},
-    "answerLatex": "Zn(s) \u2192 $$Zn2+aq$$ + 2e"
+    "choices": [
+        "$$Zn(s) \\rightarrow Zn^{+}(aq) + e^-$$",
+        "$$Zn(s) \\rightarrow Zn^{2+}(aq) + 2e$$",
+        "$$Zn^{2+}(aq) + 2e^- \\rightarrow Zn(s)$$",
+        "$$Zn^{2+}(aq) \\rightarrow Zn(s) + 2e^-$$"
+    ]
 }

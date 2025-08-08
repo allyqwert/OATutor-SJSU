@@ -15,12 +15,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$0$$ to $$+2$$"
+            "$$2$$"
         ],
         "dependencies": [
             "a132811electro2a-h1"
         ],
-        "title": "Determine the Oxidation State of Mg",
+        "title": "Determine the oxidation number change for Mg",
         "text": "What is the oxidation state of Mg in the reactants and products?",
         "variabilization": {},
         "oer": "openai",
@@ -42,12 +42,12 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$0$$ to $$-1$$"
+            "$$-1$$"
         ],
         "dependencies": [
             "a132811electro2a-h3"
         ],
-        "title": "Determine the Oxidation State of Br2",
+        "title": "Determine the oxidation number change for Bromine from reactant ($$Br_2$$) to product (Br-)?",
         "text": "What is the oxidation state of Br2 in the reactants and products?",
         "variabilization": {},
         "oer": "openai",

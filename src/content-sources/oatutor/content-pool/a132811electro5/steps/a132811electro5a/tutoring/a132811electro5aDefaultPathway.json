@@ -36,10 +36,10 @@
     {
         "id": "a132811electro5a-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "Zn(s)\u2192Zn2+(aq)+2e-"
+            "$$Zn(s) \\rightarrow Zn^{2+}(aq)+2e$$"
         ],
         "dependencies": [
             "a132811electro5a-h3"
@@ -48,6 +48,12 @@
         "text": "Combine the information to write the half-reaction for the anode. Remember to include phase symbols.",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+                "$$Zn^{2+}(aq) + 2e^- \\rightarrow Zn(s)$$",
+                "$$Zn(s) \\rightarrow Zn^{2+}(aq)+2e$$",
+                "$$Zn(s) \\rightarrow Zn^{+}(aq) + e^-$$",
+                "$$Zn^{2+}(aq) \\rightarrow Zn(s) + 2e^-$$"
+            ]
     }
 ]

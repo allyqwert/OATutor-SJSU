@@ -28,7 +28,7 @@
             "a132811electro10a-h2"
         ],
         "title": "Calculate E\u00b0cell",
-        "text": "E\u00b0cell $$=$$ E\u00b0red (cathode) - E\u00b0red (anode). Determine which species is oxidized and which is reduced.",
+        "text": "E\u00b0cell $$=E_{ox}+E_{red}$$. Determine which species is oxidized and which is reduced.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -51,13 +51,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-1314000$$"
+            "$$-1314000 \\pm 200$$"
         ],
         "dependencies": [
             "a132811electro10a-h4"
         ],
         "title": "Calculate \u0394G\u00b0",
-        "text": "Substitute the values: $$n$$ $$=$$ $$3$$, F $$=$$ $$96485$$ $$\\frac{C}{mol}$$, and E\u00b0cell from previous steps into the formula \u0394G\u00b0 $$=$$ -nFE\u00b0cell.",
+        "text": "Substitute the values: $$n$$ $$=$$ $$3$$, F $$=$$ $$96485$$ $$\\frac{C}{mol}$$, and E\u00b0cell from previous steps into the formula \u0394G\u00b0 $$=$$ -nFE\u00b0cell. Answer with accuracy, omit the unit.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -80,13 +80,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$-1314$$"
+            "$$-1314 \\pm 0.200$$"
         ],
         "dependencies": [
             "a132811electro10a-h6"
         ],
         "title": "Final Answer",
-        "text": "What is the Gibbs free energy change in kJ?",
+        "text": "What is the Gibbs free energy change in kJ? Add an accuracy range to the answer and omit units.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

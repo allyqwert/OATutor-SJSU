@@ -45,7 +45,7 @@
             "a132811electro6d-h3"
         ],
         "title": "Calculate the Standard Reduction Potential",
-        "text": "Given that the cell voltage is $$0.76$$ V and the standard reduction potential for SHE is $$0$$ V, use the equation $$E_{cell}$$ $$=$$ $$E_{cathode}$$ - $$E_{anode}$$ to find the standard reduction potential for Zn2+/Zn.",
+        "text": "Given that the cell voltage is $$0.76$$ V and the standard reduction potential for SHE is $$0$$ V, use the equation $$E^^\\circ{cell}=E_{ox}-E_{red}$$ to find the standard reduction potential for Zn2+/Zn.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

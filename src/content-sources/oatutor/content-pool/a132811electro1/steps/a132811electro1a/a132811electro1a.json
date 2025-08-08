@@ -9,9 +9,8 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "Ag+",
-        "$$NO3-$$",
-        "Fe",
+        "$$Ag^{+}$$",
+        "$$NO_3^{-}$$",
         "Fe"
     ]
 }

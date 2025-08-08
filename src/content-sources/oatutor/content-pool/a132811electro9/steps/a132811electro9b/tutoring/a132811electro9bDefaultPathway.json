@@ -25,9 +25,9 @@
         "id": "a132811electro9b-h3",
         "type": "scaffold",
         "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "answerType": "string",
         "hintAnswer": [
-            "Negative"
+            "negative"
         ],
         "dependencies": [
             "a132811electro9b-h2"

@@ -36,10 +36,10 @@
     {
         "id": "a132811electro5b-h4",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
-            "Cu2+(aq)+2e\u2192Cu(s)"
+            "$$Cu^{2+}(aq) + 2e \\rightarrow Cu(s)$$"
         ],
         "dependencies": [
             "a132811electro5b-h3"
@@ -48,6 +48,12 @@
         "text": "Combine the information to write the half-reaction at the cathode.",
         "variabilization": {},
         "oer": "openai",
-        "license": ""
+        "license": "",
+        "choices": [
+            "$$Cu^{2+}(aq) \\rightarrow Cu(s) + 2e^-$$",
+            "$$Cu^{+}(aq) + e^- \\rightarrow Cu(s)$$",
+            "$$Cu(s) \\rightarrow Cu^{2+}(aq) + 2e^-$$",
+            "$$Cu^{2+}(aq) + 2e \\rightarrow Cu(s)$$"
+        ]
     }
 ]
