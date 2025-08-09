@@ -3,9 +3,15 @@
     "stepAnswer": [
         "$$F^{-}$$"
     ],
-    "problemType": "TextBox",
+    "problemType": "MultipleChoice",
     "stepTitle": "Identify the conjugate base from the dissociation of HF",
     "stepBody": "",
-    "answerType": "arithmetic",
-    "variabilization": {}
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "$$F^{-}$$",
+        "$$HF$$",
+        "$$H^{+}$$",
+        "$$H_2F^{+}$$"
+    ]
 }
