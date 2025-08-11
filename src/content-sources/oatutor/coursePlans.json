@@ -1,103 +1,322 @@
 [
     {
-        "courseName": "Chemistry 1A Summer Content",
-        "courseOER": "https://openstax.org/ <OpenStax>",
+        "courseName": "SJSU 1018A",
+        "courseOER": "https://openstax.org/",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
             {
-                "id": "5EAjICw4-hYrs-HQpyCZG8eX",
-                "name": "Lesson Matter,",
-                "topics": "Atom, Conversion, Stoichiometry (Module A)",
+                "id": "1dmull1r-t834-5gjKIDF3rb",
+                "name": "Lesson 1.1",
+                "topics": "Order of Operations",
                 "allowRecycle": true,
-                "showStuMastery": false,
-                "doMasteryUpdate": false,
-                "keepMCOrder": true,
                 "learningObjectives": {
-                    "module_a": 0.85
+                    "and_least_common_multiples": 0.85,
+                    "evaluate_an_expression": 0.85,
+                    "find_factors": 0.85,
+                    "identify_and_combine_like_terms": 0.85,
+                    "prime_factorizations": 0.85,
+                    "simplify_expressions_using_the_order_of_operations": 0.85,
+                    "translate_an_english_phrase_to_an_algebraic_expression": 0.85
                 }
             },
             {
-                "id": "5LaoYbwn-0rBC-yZQq0BsKQH",
-                "name": "Lesson Quantum",
-                "topics": "Periodic Properties (Module B)",
+                "id": "47sqrO7C-pNhb-EMHVfpaPOq",
+                "name": "Lesson 1.2",
+                "topics": "Operations with fractions",
                 "allowRecycle": true,
-                "showStuMastery": false,
-                "doMasteryUpdate": false,
-                "keepMCOrder": true,
                 "learningObjectives": {
-                    "module_b": 0.85
+                    "add_and_subtract_fractions": 0.85,
+                    "evaluate_variable_expressions_with_fractions": 0.85,
+                    "multiply_and_divide_fractions": 0.85,
+                    "simplify_fractions": 0.85,
+                    "use_the_order_of_operations_to_simplify_fractions": 0.85
                 }
             },
             {
-                "id": "6HxdI5jL-zKeC-M4qLarHoOt",
-                "name": "Lesson Bonding",
-                "topics": "Shape Polarity (Module C)",
+                "id": "3cvzMo8M-ay0f-XePBnLT6hk",
+                "name": "Lesson 1.3",
+                "topics": "Inverse operations",
                 "allowRecycle": true,
-                "showStuMastery": false,
-                "doMasteryUpdate": false,
-                "keepMCOrder": true,
                 "learningObjectives": {
-                    "module_c": 0.85
+                    "add_integers": 0.85,
+                    "simplify:_expressions_with_absolute_value": 0.85,
+                    "use_negatives_and_opposites_of_integers": 0.85
                 }
             },
             {
-                "id": "6bWAlZvT-nZSZ-IEkU1XQjdr",
-                "name": "Lesson Hybridization,",
-                "topics": "Gas Law, IMF (Module D)",
+                "id": "5yCh3BU0-uHoo-JsjHWIW0Ai",
+                "name": "Lesson 2.1",
+                "topics": "Evaluating Expressions",
                 "allowRecycle": true,
-                "showStuMastery": false,
-                "doMasteryUpdate": false,
-                "keepMCOrder": true,
                 "learningObjectives": {
-                    "module_d": 0.85
+                    "solve_equations_that_require_simplification": 0.85,
+                    "solve_equations_using_the_division_and_multiplication_properties_of_equality": 0.85,
+                    "solve_equations_using_the_subtraction_and_addition_properties_of_equality": 0.85
                 }
             },
             {
-                "id": "6stdrokl-zPk5-xkqIw7jgXb",
-                "name": "Lesson Thermochemistry",
-                "topics": "(Module E)",
+                "id": "1srYHUJS-SNMt-E6yBZMLg33",
+                "name": "Lesson 2.2",
+                "topics": "Rules of Algebra",
                 "allowRecycle": true,
-                "showStuMastery": false,
-                "doMasteryUpdate": false,
-                "keepMCOrder": true,
                 "learningObjectives": {
-                    "module_e": 0.85
+                    "simplify_expressions_using_the_distributive_property": 0.85,
+                    "use_the_commutative_and_associative_properties": 0.85
                 }
             },
             {
-                "id": "4WkmxbLD-3JLs-JvdkZGQ83A",
-                "name": "Lesson Chemical",
-                "topics": "Equilibrium (Module F)",
+                "id": "4LI7GIeE-Qpw8-y5vMWwZAln",
+                "name": "Lesson 2.3",
+                "topics": "Substituting into expressions",
                 "allowRecycle": true,
-                "showStuMastery": false,
-                "doMasteryUpdate": false,
-                "keepMCOrder": true,
                 "learningObjectives": {
-                    "module_f": 0.85
+                    "and_time_formula": 0.85,
+                    "rate": 0.85,
+                    "solve_a_formula_for_a_specific_variable": 0.85,
+                    "solve_linear_equations_using_a_general_strategy": 0.85,
+                    "use_the_distance": 0.85,
+                    "verify_a_solution_of_an_equation": 0.85
                 }
             },
             {
-                "id": "6HOEluOC-9OWI-PXB3LmHnGc",
-                "name": "Lesson Acid",
-                "topics": "Base (Module G)",
+                "id": "2N2RgOGL-lski-xWfRCQtdvH",
+                "name": "Lesson 2.4",
+                "topics": "Simplifying algebraic expressions",
                 "allowRecycle": true,
-                "showStuMastery": false,
-                "doMasteryUpdate": false,
-                "keepMCOrder": true,
                 "learningObjectives": {
-                    "module_g": 0.85
+                    "add_and_subtract_monomials": 0.85,
+                    "add_and_subtract_polynomials": 0.85,
+                    "binomials_and_trinomials": 0.85,
+                    "evaluate_an_expression": 0.85,
+                    "identify_and_combine_like_terms": 0.85,
+                    "identify_polynomials": 0.85,
+                    "monomials": 0.85
                 }
             },
             {
-                "id": "0evvQx33-Qsj3-8i410O2lNq",
-                "name": "Lesson Electrochemistry",
-                "topics": "(Module H)",
+                "id": "7Z60aZff-ebNp-mHBJpxJc8X",
+                "name": "Lesson 2.5",
+                "topics": "Solving One-Variable Equations",
                 "allowRecycle": true,
-                "showStuMastery": false,
-                "doMasteryUpdate": false,
-                "keepMCOrder": true,
                 "learningObjectives": {
-                    "module_h": 0.85
+                    "solve_a_formula_for_a_specific_variable": 0.85,
+                    "solve_equations_using_the_general_strategy": 0.85
+                }
+            },
+            {
+                "id": "7mYGLwg4-2Lmj-MBfeqXIayj",
+                "name": "Lesson 2.6",
+                "topics": "Solving Inequalities",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solve_compound_inequalities_with_and": 0.85,
+                    "solve_compound_inequalities_with_or": 0.85,
+                    "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality": 0.85,
+                    "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85,
+                    "solve_linear_inequalities": 0.85,
+                    "solving_compound_inequalities": 0.85
+                }
+            },
+            {
+                "id": "2sav0fjG-Y3Qq-OHoAWhgJ26",
+                "name": "Lesson 2.7",
+                "topics": "Operations with Rational Expressions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "add_rational_expressions_with_a_common_denominator": 0.85,
+                    "add_rational_expressions_with_different_denominators": 0.85,
+                    "determine_the_values_for_which_a_rational_expression_is_undefined": 0.85,
+                    "find_equivalent_rational_expressions": 0.85,
+                    "multiply_and_divide_rational_functions": 0.85,
+                    "multiply_rational_expressions": 0.85,
+                    "simplify_rational_expressions": 0.85
+                }
+            },
+            {
+                "id": "0CRIE8QH-xwtt-L4hMdEiSo7",
+                "name": "Lesson 3.1",
+                "topics": "Identifying Polynomials by Degree",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "and_trinomials": 0.85,
+                    "binomials": 0.85,
+                    "comparing_smooth_and_continuous_graphs": 0.85,
+                    "determine_the_degree_of_polynomials": 0.85,
+                    "identifiying_end_behavior_of_power_functions": 0.85,
+                    "identifiying_local_behavior_of_polynomial_functions": 0.85,
+                    "identifiying_power_functions": 0.85,
+                    "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function": 0.85,
+                    "identify_polynomials": 0.85,
+                    "monomials": 0.85
+                }
+            },
+            {
+                "id": "6et6L3Fl-XL7n-yQEYINhxve",
+                "name": "Lesson 3.2",
+                "topics": "End Behavior using Leading Term Test",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "comparing_smooth_and_continuous_graphs": 0.85,
+                    "identifiying_end_behavior_of_power_functions": 0.85,
+                    "identifiying_local_behavior_of_polynomial_functions": 0.85,
+                    "identifiying_power_functions": 0.85,
+                    "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function": 0.85
+                }
+            },
+            {
+                "id": "3Vlk054e-VgXM-f56NwZRwkc",
+                "name": "Lesson 3.3",
+                "topics": "Interval Notation",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "graph_inequalities_on_the_number_line": 0.85,
+                    "solve_compound_inequalities_with_and": 0.85,
+                    "solve_compound_inequalities_with_or": 0.85,
+                    "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality": 0.85,
+                    "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality": 0.85,
+                    "solve_linear_inequalities": 0.85
+                }
+            },
+            {
+                "id": "0CRIE8QH-xwtt-L4hMdEiSo7",
+                "name": "Lesson 3.4",
+                "topics": "Operations with Polynomials",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "add_and_subtract_monomials": 0.85,
+                    "and_trinomials": 0.85,
+                    "binomials": 0.85,
+                    "determine_the_degree_of_polynomials": 0.85,
+                    "divide_a_polynomial_by_a_monomial": 0.85,
+                    "identify_polynomials": 0.85,
+                    "monomials": 0.85,
+                    "multiply_a_binomial_by_a_binomial": 0.85,
+                    "multiply_a_polynomial_by_a_monomial": 0.85,
+                    "multiply_monomials": 0.85
+                }
+            },
+            {
+                "id": "3sNU5u60-bdZx-MwYPmrmcOH",
+                "name": "Lesson 3.5",
+                "topics": "Factoring",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "factor_by_grouping": 0.85,
+                    "factor_perfect_square_trinomials": 0.85,
+                    "factor_the_greatest_common_factor_from_a_polynomial": 0.85,
+                    "factor_trinomials_of_the_form_x**2+bx+c": 0.85,
+                    "factor_trinomials_of_the_form_x**2_+_bx_+_c": 0.85,
+                    "find_the_greatest_common_factor_of_two_or_more_expressions": 0.85,
+                    "finding_the_greatest_common_factor_of_two_or_more_expressions": 0.85,
+                    "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely": 0.85
+                }
+            },
+            {
+                "id": "6S2gfLkL-DpyK-CoGzubSsKS",
+                "name": "Lesson 3.6",
+                "topics": "Solving Quadratic Equations",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "complete_the_square_of_a_binomial_expression": 0.85,
+                    "solve_quadratic_equations_by_completing_the_square": 0.85,
+                    "solve_quadratic_equations_by_factoring": 0.85,
+                    "solve_quadratic_equations_of_the_form_x**2_+_bx_+_c_=_0_by_completing_the_square": 0.85,
+                    "solve_quadratic_equations_using_the_quadratic_formula": 0.85
+                }
+            },
+            {
+                "id": "2RW5Rriy-nEqV-KCaD82LJL0",
+                "name": "Lesson 4.1",
+                "topics": "Properties of Radicals",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "add_and_subtract_like_square_roots": 0.85,
+                    "divide_square_roots": 0.85,
+                    "rationalize_a_one_term_denominator": 0.85,
+                    "rationalize_a_two_term_denominator": 0.85
+                }
+            },
+            {
+                "id": "2gAru9Df-dxnI-KTBQZoSR47",
+                "name": "Lesson 4.2",
+                "topics": "Simplifying radicals & radical expressions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "use_the_product_property_to_simplify_square_roots": 0.85,
+                    "use_the_quotient_property_to_simplify_square_roots": 0.85
+                }
+            },
+            {
+                "id": "6MzqWaBP-OdCR-XzjAm5Oqj6",
+                "name": "Lesson 4.3",
+                "topics": "Rationalizing a denominator",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "rationalize_a_one_term_denominator": 0.85
+                }
+            },
+            {
+                "id": "2Sw78gtq-xvkL-YcOVUK7Im2",
+                "name": "Lesson 4.4",
+                "topics": "Basic properties of exponents",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "simplify_expressions_using_the_properties_for_exponents": 0.85
+                }
+            },
+            {
+                "id": "1z6a8nZj-xmpz-2mmBnmBsux",
+                "name": "Lesson 4.5",
+                "topics": "Domain and range restrictions",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "finding_domain_and_range_from_graphs": 0.85,
+                    "finding_domains_and_ranges_of_the_toolkit_functions": 0.85,
+                    "finding_the_domain_of_a_function_defined_by_an_equation": 0.85,
+                    "graphing_piecewise_defined_functions": 0.85,
+                    "using_notations_to_specify_domain_and_range": 0.85
+                }
+            },
+            {
+                "id": "6Zu21J3H-YTlm-LzrJbL2Ywb",
+                "name": "Lesson 5.1",
+                "topics": "Plotting points",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "complete_a_table_of_solutions_to_a_linear_equation_in_two_variables": 0.85,
+                    "plot_points_on_a_rectangular_coordinate_system": 0.85,
+                    "verify_solutions_to_an_equation_in_two_variables": 0.85
+                }
+            },
+            {
+                "id": "1HfsBIUG-YEbw-KMMow56Bu8",
+                "name": "Lesson 5.3",
+                "topics": "Distance & Midpoint formulas",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "use_the_distance_formula": 0.85,
+                    "use_the_midpoint_formula": 0.85
+                }
+            },
+            {
+                "id": "1IGTMXm6-gNQi-sXEvjTsNu6",
+                "name": "Lesson 5.4",
+                "topics": "Pythagorean theorem",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "solve_applications_using_properties_of_triangles": 0.85
+                }
+            },
+            {
+                "id": "5tm7vI9A-DDLQ-SKFWZijHoB",
+                "name": "Lesson 5.5",
+                "topics": "& 5.6 Relationship between lines",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "determining_whether_graphs_of_lines_are_parallel_or_perpendicular": 0.85,
+                    "use_slopes_to_identify_parallel_lines": 0.85,
+                    "use_slopes_to_identify_perpendicular_lines": 0.85,
+                    "writing_the_equation_of_lines_parallel_or_perpendicular_to_a_given_line": 0.85
                 }
             }
         ]

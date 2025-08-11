@@ -1,722 +1,2836 @@
 {
-    "af9a055chem1a": [
-        "module_a"
+    "a11c719lang1a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
     ],
-    "af9a055chem1b": [
-        "module_a"
+    "a11c719lang10a": [
+        "translate_an_english_phrase_to_an_algebraic_expression"
     ],
-    "af9a055chem1c": [
-        "module_a"
+    "a11c719lang11a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem1d": [
-        "module_a"
+    "a11c719lang12a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem1e": [
-        "module_a"
+    "a11c719lang13a": [
+        "identify_and_combine_like_terms"
     ],
-    "af9a055chem1f": [
-        "module_a"
+    "a11c719lang14a": [
+        "identify_and_combine_like_terms"
     ],
-    "af9a055chem10a": [
-        "module_a"
+    "a11c719lang15a": [
+        "identify_and_combine_like_terms"
     ],
-    "af9a055chem11a": [
-        "module_a"
+    "a11c719lang16a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem11b": [
-        "module_a"
+    "a11c719lang17a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem11c": [
-        "module_a"
+    "a11c719lang18a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem11d": [
-        "module_a"
+    "a11c719lang19a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem12a": [
-        "module_a"
+    "a11c719lang2a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
     ],
-    "af9a055chem13a": [
-        "module_a"
+    "a11c719lang20a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem14a": [
-        "module_a"
+    "a11c719lang21a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem14b": [
-        "module_a"
+    "a11c719lang22a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem15a": [
-        "module_a"
+    "a11c719lang23a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem2a": [
-        "module_a"
+    "a11c719lang24a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem2b": [
-        "module_a"
+    "a11c719lang25a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem2c": [
-        "module_a"
+    "a11c719lang26a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem2d": [
-        "module_a"
+    "a11c719lang27a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem3a": [
-        "module_a"
+    "a11c719lang28a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem3b": [
-        "module_a"
+    "a11c719lang29a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem3c": [
-        "module_a"
+    "a11c719lang3a": [
+        "find_factors",
+        "prime_factorizations",
+        "and_least_common_multiples"
     ],
-    "af9a055chem3d": [
-        "module_a"
+    "a11c719lang30a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem4a": [
-        "module_a"
+    "a11c719lang31a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem5a": [
-        "module_a"
+    "a11c719lang32a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem6a": [
-        "module_a"
+    "a11c719lang4a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem7a": [
-        "module_a"
+    "a11c719lang5a": [
+        "simplify_expressions_using_the_order_of_operations"
     ],
-    "af9a055chem7b": [
-        "module_a"
+    "a11c719lang6a": [
+        "evaluate_an_expression"
     ],
-    "af9a055chem7c": [
-        "module_a"
+    "a11c719lang6b": [
+        "evaluate_an_expression"
     ],
-    "af9a055chem7d": [
-        "module_a"
+    "a11c719lang6c": [
+        "evaluate_an_expression"
     ],
-    "af9a055chem8a": [
-        "module_a"
+    "a11c719lang7a": [
+        "identify_and_combine_like_terms"
     ],
-    "af9a055chem9a": [
-        "module_a"
+    "a11c719lang8a": [
+        "translate_an_english_phrase_to_an_algebraic_expression"
     ],
-    "a0afc81chem1a": [
-        "module_b"
+    "a11c719lang8b": [
+        "translate_an_english_phrase_to_an_algebraic_expression"
     ],
-    "a0afc81chem10a": [
-        "module_b"
+    "a11c719lang9a": [
+        "translate_an_english_phrase_to_an_algebraic_expression"
     ],
-    "a0afc81chem11a": [
-        "module_b"
+    "a8ada63Fraction1a": [
+        "simplify_fractions"
     ],
-    "a0afc81chem12a": [
-        "module_b"
+    "a8ada63Fraction10a": [
+        "evaluate_variable_expressions_with_fractions"
     ],
-    "a0afc81chem13a": [
-        "module_b"
+    "a8ada63Fraction11a": [
+        "evaluate_variable_expressions_with_fractions"
     ],
-    "a0afc81chem14a": [
-        "module_b"
+    "a8ada63Fraction12a": [
+        "add_and_subtract_fractions"
     ],
-    "a0afc81chem15a": [
-        "module_b"
+    "a8ada63Fraction13a": [
+        "multiply_and_divide_fractions"
     ],
-    "a0afc81chem15b": [
-        "module_b"
+    "a8ada63Fraction14a": [
+        "add_and_subtract_fractions"
     ],
-    "a0afc81chem15c": [
-        "module_b"
+    "a8ada63Fraction14b": [
+        "add_and_subtract_fractions"
     ],
-    "a0afc81chem15d": [
-        "module_b"
+    "a8ada63Fraction15a": [
+        "use_the_order_of_operations_to_simplify_fractions"
     ],
-    "a0afc81chem15e": [
-        "module_b"
+    "a8ada63Fraction2a": [
+        "multiply_and_divide_fractions"
     ],
-    "a0afc81chem16a": [
-        "module_b"
+    "a8ada63Fraction3a": [
+        "multiply_and_divide_fractions"
     ],
-    "a0afc81chem17a": [
-        "module_b"
+    "a8ada63Fraction4a": [
+        "multiply_and_divide_fractions"
     ],
-    "a0afc81chem18a": [
-        "module_b"
+    "a8ada63Fraction5a": [
+        "add_and_subtract_fractions"
     ],
-    "a0afc81chem19a": [
-        "module_b"
+    "a8ada63Fraction6a": [
+        "use_the_order_of_operations_to_simplify_fractions"
     ],
-    "a0afc81chem2a": [
-        "module_b"
+    "a8ada63Fraction6b": [
+        "use_the_order_of_operations_to_simplify_fractions"
     ],
-    "a0afc81chem20a": [
-        "module_b"
+    "a8ada63Fraction7a": [
+        "use_the_order_of_operations_to_simplify_fractions"
     ],
-    "a0afc81chem3a": [
-        "module_b"
+    "a8ada63Fraction8a": [
+        "use_the_order_of_operations_to_simplify_fractions"
     ],
-    "a0afc81chem4a": [
-        "module_b"
+    "a8ada63Fraction9a": [
+        "use_the_order_of_operations_to_simplify_fractions"
     ],
-    "a0afc81chem5a": [
-        "module_b"
+    "a8ada63fractions1a": [
+        "simplify_fractions"
     ],
-    "a0afc81chem6a": [
-        "module_b"
+    "a8ada63fractions10a": [
+        "multiply_and_divide_fractions"
     ],
-    "a0afc81chem7a": [
-        "module_b"
+    "a8ada63fractions11a": [
+        "evaluate_variable_expressions_with_fractions"
     ],
-    "a0afc81chem8a": [
-        "module_b"
+    "a8ada63fractions12a": [
+        "multiply_and_divide_fractions"
     ],
-    "a0afc81chem9a": [
-        "module_b"
+    "a8ada63fractions13a": [
+        "evaluate_variable_expressions_with_fractions"
     ],
-    "a16200bc2_1a": [
-        "module_c"
+    "a8ada63fractions14a": [
+        "multiply_and_divide_fractions"
     ],
-    "a16200bc2_2a": [
-        "module_c"
+    "a8ada63fractions15a": [
+        "evaluate_variable_expressions_with_fractions"
     ],
-    "a16200bc2_3a": [
-        "module_c"
+    "a8ada63fractions2a": [
+        "simplify_fractions"
     ],
-    "a16200bc2_4a": [
-        "module_c"
+    "a8ada63fractions3a": [
+        "evaluate_variable_expressions_with_fractions"
     ],
-    "a16200bc2_4b": [
-        "module_c"
+    "a8ada63fractions4a": [
+        "evaluate_variable_expressions_with_fractions"
     ],
-    "a16200bc2_4c": [
-        "module_c"
+    "a8ada63fractions5a": [
+        "multiply_and_divide_fractions"
     ],
-    "a16200bc2_4d": [
-        "module_c"
+    "a8ada63fractions6a": [
+        "multiply_and_divide_fractions"
     ],
-    "a16200bc2_5a": [
-        "module_c"
+    "a8ada63fractions7a": [
+        "multiply_and_divide_fractions"
     ],
-    "a16200bc2_6a": [
-        "module_c"
+    "a8ada63fractions8a": [
+        "multiply_and_divide_fractions"
     ],
-    "a16200bc2_7a": [
-        "module_c"
+    "a8ada63fractions9a": [
+        "multiply_and_divide_fractions"
     ],
-    "a16200bc2_8a": [
-        "module_c"
+    "a84988eadd1a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a16200bchemC1a": [
-        "module_c"
+    "a84988eadd10a": [
+        "add_integers"
     ],
-    "a16200bchemC1b": [
-        "module_c"
+    "a84988eadd10b": [
+        "add_integers"
     ],
-    "a16200bchemC1c": [
-        "module_c"
+    "a84988eadd11a": [
+        "add_integers"
     ],
-    "a16200bchemC1d": [
-        "module_c"
+    "a84988eadd11b": [
+        "add_integers"
     ],
-    "a16200bchemC1e": [
-        "module_c"
+    "a84988eadd12a": [
+        "add_integers"
     ],
-    "a16200bchemC1f": [
-        "module_c"
+    "a84988eadd12b": [
+        "add_integers"
     ],
-    "a16200bchemC2a": [
-        "module_c"
+    "a84988eadd13a": [
+        "add_integers"
     ],
-    "a16200bchemC3a": [
-        "module_c"
+    "a84988eadd13b": [
+        "add_integers"
     ],
-    "a16200bchemC3b": [
-        "module_c"
+    "a84988eadd14a": [
+        "add_integers"
     ],
-    "a16200bchemC3c": [
-        "module_c"
+    "a84988eadd14b": [
+        "add_integers"
     ],
-    "a16200bchemC3d": [
-        "module_c"
+    "a84988eadd15a": [
+        "add_integers"
     ],
-    "a16200bchemC4a": [
-        "module_c"
+    "a84988eadd15b": [
+        "add_integers"
     ],
-    "a16200bchemC4b": [
-        "module_c"
+    "a84988eadd16a": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a16200bchemC4c": [
-        "module_c"
+    "a84988eadd16b": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a16200bchemC4d": [
-        "module_c"
+    "a84988eadd16c": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a16200bchemC5a": [
-        "module_c"
+    "a84988eadd16d": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a16200bchemC6a": [
-        "module_c"
+    "a84988eadd17a": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a16200bchemC7a": [
-        "module_c"
+    "a84988eadd17b": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a16200bchemC7b": [
-        "module_c"
+    "a84988eadd17c": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a16200bchemC8a": [
-        "module_c"
+    "a84988eadd18a": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem10a": [
-        "module_d"
+    "a84988eadd18b": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem11a": [
-        "module_d"
+    "a84988eadd19a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a1797b7chem12a": [
-        "module_d"
+    "a84988eadd19b": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a1797b7chem13a": [
-        "module_d"
+    "a84988eadd19c": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a1797b7chem14a": [
-        "module_d"
+    "a84988eadd2a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a1797b7chem15a": [
-        "module_d"
+    "a84988eadd2b": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a1797b7chem16a": [
-        "module_d"
+    "a84988eadd2c": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a1797b7chem17a": [
-        "module_d"
+    "a84988eadd2d": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a1797b7chem18a": [
-        "module_d"
+    "a84988eadd20a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a1797b7chem19a": [
-        "module_d"
+    "a84988eadd20b": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a1797b7chem2a": [
-        "module_d"
+    "a84988eadd20c": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a1797b7chem2b": [
-        "module_d"
+    "a84988eadd20d": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a1797b7chem2c": [
-        "module_d"
+    "a84988eadd21a": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem20a": [
-        "module_d"
+    "a84988eadd21b": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem20b": [
-        "module_d"
+    "a84988eadd21c": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem20c": [
-        "module_d"
+    "a84988eadd21d": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem20d": [
-        "module_d"
+    "a84988eadd22a": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem21a": [
-        "module_d"
+    "a84988eadd22b": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem3a": [
-        "module_d"
+    "a84988eadd22c": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem3b": [
-        "module_d"
+    "a84988eadd22d": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem3c": [
-        "module_d"
+    "a84988eadd23a": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem4a": [
-        "module_d"
+    "a84988eadd23b": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem5a": [
-        "module_d"
+    "a84988eadd23c": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem5b": [
-        "module_d"
+    "a84988eadd24a": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem5c": [
-        "module_d"
+    "a84988eadd24b": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem6a": [
-        "module_d"
+    "a84988eadd24c": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem7a": [
-        "module_d"
+    "a84988eadd25a": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem8a": [
-        "module_d"
+    "a84988eadd25b": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem9a": [
-        "module_d"
+    "a84988eadd26a": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a1797b7chem9b": [
-        "module_d"
+    "a84988eadd26b": [
+        "use_negatives_and_opposites_of_integers"
     ],
-    "a40e287thermo1a": [
-        "module_e"
+    "a84988eadd27a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo10a": [
-        "module_e"
+    "a84988eadd27b": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo10b": [
-        "module_e"
+    "a84988eadd27c": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo10c": [
-        "module_e"
+    "a84988eadd28a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo10d": [
-        "module_e"
+    "a84988eadd28b": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo10e": [
-        "module_e"
+    "a84988eadd28c": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo10f": [
-        "module_e"
+    "a84988eadd29a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo10g": [
-        "module_e"
+    "a84988eadd29b": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo10h": [
-        "module_e"
+    "a84988eadd29c": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo10i": [
-        "module_e"
+    "a84988eadd29d": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo10j": [
-        "module_e"
+    "a84988eadd3a": [
+        "add_integers"
     ],
-    "a40e287thermo11a": [
-        "module_e"
+    "a84988eadd3b": [
+        "add_integers"
     ],
-    "a40e287thermo11b": [
-        "module_e"
+    "a84988eadd30a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo11c": [
-        "module_e"
+    "a84988eadd30b": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo12a": [
-        "module_e"
+    "a84988eadd30c": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo13a": [
-        "module_e"
+    "a84988eadd30d": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo13b": [
-        "module_e"
+    "a84988eadd4a": [
+        "add_integers"
     ],
-    "a40e287thermo14a": [
-        "module_e"
+    "a84988eadd4b": [
+        "add_integers"
     ],
-    "a40e287thermo14b": [
-        "module_e"
+    "a84988eadd5a": [
+        "add_integers"
     ],
-    "a40e287thermo14c": [
-        "module_e"
+    "a84988eadd5b": [
+        "add_integers"
     ],
-    "a40e287thermo2a": [
-        "module_e"
+    "a84988eadd6a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo2b": [
-        "module_e"
+    "a84988eadd7a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo2c": [
-        "module_e"
+    "a84988eadd8a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo3a": [
-        "module_e"
+    "a84988eadd8b": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo3b": [
-        "module_e"
+    "a84988eadd8c": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo3c": [
-        "module_e"
+    "a84988eadd8d": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo4a": [
-        "module_e"
+    "a84988eadd9a": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo4b": [
-        "module_e"
+    "a84988eadd9b": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo5a": [
-        "module_e"
+    "a84988eadd9c": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo6a": [
-        "module_e"
+    "a84988eadd9d": [
+        "simplify:_expressions_with_absolute_value"
     ],
-    "a40e287thermo7a": [
-        "module_e"
+    "a909d26DivMul1a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "a40e287thermo8a": [
-        "module_e"
+    "a909d26DivMul10a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "a40e287thermo9a": [
-        "module_e"
+    "a909d26DivMul11a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq1a": [
-        "module_f"
+    "a909d26DivMul12a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq10a": [
-        "module_f"
+    "a909d26DivMul13a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq10b": [
-        "module_f"
+    "a909d26DivMul14a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq10c": [
-        "module_f"
+    "a909d26DivMul15a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq11a": [
-        "module_f"
+    "a909d26DivMul2a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq12a": [
-        "module_f"
+    "a909d26DivMul3a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq12b": [
-        "module_f"
+    "a909d26DivMul4a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq12c": [
-        "module_f"
+    "a909d26DivMul5a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq13a": [
-        "module_f"
+    "a909d26DivMul6a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq14a": [
-        "module_f"
+    "a909d26DivMul7a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq14b": [
-        "module_f"
+    "a909d26DivMul8a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq2a": [
-        "module_f"
+    "a909d26DivMul9a": [
+        "solve_equations_using_the_division_and_multiplication_properties_of_equality"
     ],
-    "acb67bbchemeq3a": [
-        "module_f"
+    "a909d26SubAdd1a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "acb67bbchemeq4a": [
-        "module_f"
+    "a909d26SubAdd10a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "acb67bbchemeq5a": [
-        "module_f"
+    "a909d26SubAdd11a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "acb67bbchemeq6a": [
-        "module_f"
+    "a909d26SubAdd12a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "acb67bbchemeq7a": [
-        "module_f"
+    "a909d26SubAdd13a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "acb67bbchemeq8a": [
-        "module_f"
+    "a909d26SubAdd13b": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "acb67bbchemeq8b": [
-        "module_f"
+    "a909d26SubAdd13c": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "acb67bbchemeq8c": [
-        "module_f"
+    "a909d26SubAdd13d": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "acb67bbchemeq8d": [
-        "module_f"
+    "a909d26SubAdd13e": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "acb67bbchemeq8e": [
-        "module_f"
+    "a909d26SubAdd13f": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "acb67bbchemeq9a": [
-        "module_f"
+    "a909d26SubAdd13g": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase1a": [
-        "module_g"
+    "a909d26SubAdd13h": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase1b": [
-        "module_g"
+    "a909d26SubAdd13i": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase1c": [
-        "module_g"
+    "a909d26SubAdd13j": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase10a": [
-        "module_g"
+    "a909d26SubAdd13k": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase11a": [
-        "module_g"
+    "a909d26SubAdd13l": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase12a": [
-        "module_g"
+    "a909d26SubAdd14a": [
+        "solve_equations_that_require_simplification"
     ],
-    "ae40a3eacidbase13a": [
-        "module_g"
+    "a909d26SubAdd15a": [
+        "solve_equations_that_require_simplification"
     ],
-    "ae40a3eacidbase14a": [
-        "module_g"
+    "a909d26SubAdd2a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase14b": [
-        "module_g"
+    "a909d26SubAdd3a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase14c": [
-        "module_g"
+    "a909d26SubAdd4a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase15a": [
-        "module_g"
+    "a909d26SubAdd5a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase16a": [
-        "module_g"
+    "a909d26SubAdd6a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase17a": [
-        "module_g"
+    "a909d26SubAdd7a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase17b": [
-        "module_g"
+    "a909d26SubAdd8a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase17c": [
-        "module_g"
+    "a909d26SubAdd9a": [
+        "solve_equations_using_the_subtraction_and_addition_properties_of_equality"
     ],
-    "ae40a3eacidbase17d": [
-        "module_g"
+    "a3b574dRealNums1a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase2a": [
-        "module_g"
+    "a3b574dRealNums10a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase2b": [
-        "module_g"
+    "a3b574dRealNums11a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase2c": [
-        "module_g"
+    "a3b574dRealNums12a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase3a": [
-        "module_g"
+    "a3b574dRealNums13a": [
+        "simplify_expressions_using_the_distributive_property"
     ],
-    "ae40a3eacidbase4a": [
-        "module_g"
+    "a3b574dRealNums14a": [
+        "simplify_expressions_using_the_distributive_property"
     ],
-    "ae40a3eacidbase5a": [
-        "module_g"
+    "a3b574dRealNums15a": [
+        "simplify_expressions_using_the_distributive_property"
     ],
-    "ae40a3eacidbase6a": [
-        "module_g"
+    "a3b574dRealNums16a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase6b": [
-        "module_g"
+    "a3b574dRealNums18a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase6c": [
-        "module_g"
+    "a3b574dRealNums19a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase6d": [
-        "module_g"
+    "a3b574dRealNums2a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase6e": [
-        "module_g"
+    "a3b574dRealNums20a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase7a": [
-        "module_g"
+    "a3b574dRealNums21a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase7b": [
-        "module_g"
+    "a3b574dRealNums22a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase7c": [
-        "module_g"
+    "a3b574dRealNums23a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase7d": [
-        "module_g"
+    "a3b574dRealNums24a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase8a": [
-        "module_g"
+    "a3b574dRealNums25a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "ae40a3eacidbase9a": [
-        "module_g"
+    "a3b574dRealNums26a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro1a": [
-        "module_h"
+    "a3b574dRealNums27a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro1b": [
-        "module_h"
+    "a3b574dRealNums28a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro10a": [
-        "module_h"
+    "a3b574dRealNums29a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro2a": [
-        "module_h"
+    "a3b574dRealNums3a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro2b": [
-        "module_h"
+    "a3b574dRealNums30a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro2c": [
-        "module_h"
+    "a3b574dRealNums4a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro2d": [
-        "module_h"
+    "a3b574dRealNums5a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro3a": [
-        "module_h"
+    "a3b574dRealNums6a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro3b": [
-        "module_h"
+    "a3b574dRealNums7a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro3c": [
-        "module_h"
+    "a3b574dRealNums8a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro3d": [
-        "module_h"
+    "a3b574dRealNums9a": [
+        "use_the_commutative_and_associative_properties"
     ],
-    "a132811electro3e": [
-        "module_h"
+    "a7139feFormula1a": [
+        "use_the_distance",
+        "rate",
+        "and_time_formula"
     ],
-    "a132811electro4a": [
-        "module_h"
+    "a7139feFormula10a": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro4b": [
-        "module_h"
+    "a7139feFormula10b": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro4c": [
-        "module_h"
+    "a7139feFormula11a": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro5a": [
-        "module_h"
+    "a7139feFormula11b": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro5b": [
-        "module_h"
+    "a7139feFormula12a": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro5c": [
-        "module_h"
+    "a7139feFormula12b": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro5d": [
-        "module_h"
+    "a7139feFormula13a": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro6a": [
-        "module_h"
+    "a7139feFormula13b": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro6b": [
-        "module_h"
+    "a7139feFormula14a": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro6c": [
-        "module_h"
+    "a7139feFormula14b": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro6d": [
-        "module_h"
+    "a7139feFormula15a": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro7a": [
-        "module_h"
+    "a7139feFormula16a": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro7b": [
-        "module_h"
+    "a7139feFormula16b": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro7c": [
-        "module_h"
+    "a7139feFormula17a": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro7d": [
-        "module_h"
+    "a7139feFormula17b": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro7e": [
-        "module_h"
+    "a7139feFormula18a": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro7f": [
-        "module_h"
+    "a7139feFormula18b": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro8a": [
-        "module_h"
+    "a7139feFormula19a": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro9a": [
-        "module_h"
+    "a7139feFormula19b": [
+        "solve_a_formula_for_a_specific_variable"
     ],
-    "a132811electro9b": [
-        "module_h"
+    "a7139feFormula2a": [
+        "use_the_distance",
+        "rate",
+        "and_time_formula"
     ],
-    "a132811electro9c": [
-        "module_h"
+    "a7139feFormula20a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feFormula20b": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feFormula21a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feFormula21b": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feFormula22a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feFormula22b": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feFormula3a": [
+        "use_the_distance",
+        "rate",
+        "and_time_formula"
+    ],
+    "a7139feFormula4a": [
+        "use_the_distance",
+        "rate",
+        "and_time_formula"
+    ],
+    "a7139feFormula5a": [
+        "use_the_distance",
+        "rate",
+        "and_time_formula"
+    ],
+    "a7139feFormula6a": [
+        "use_the_distance",
+        "rate",
+        "and_time_formula"
+    ],
+    "a7139feFormula7a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feFormula7b": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feFormula8a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feFormula8b": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feFormula9a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feFormula9b": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a7139feLinear1a": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
+    "a7139feLinear1b": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
+    "a7139feLinear2a": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
+    "a7139feLinear2b": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
+    "a7139feLinear3a": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
+    "a7139feLinear3b": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
+    "a7139feLinear4a": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
+    "a7139feLinear4b": [
+        "solve_linear_equations_using_a_general_strategy"
+    ],
+    "a7139feSubAdd1a": [
+        "verify_a_solution_of_an_equation"
+    ],
+    "a7139feSubAdd2a": [
+        "verify_a_solution_of_an_equation"
+    ],
+    "a7139feSubAdd3a": [
+        "verify_a_solution_of_an_equation"
+    ],
+    "a7139feSubAdd4a": [
+        "verify_a_solution_of_an_equation"
+    ],
+    "a7139feSubAdd4b": [
+        "verify_a_solution_of_an_equation"
+    ],
+    "a70fee9add10a": [
+        "add_and_subtract_monomials"
+    ],
+    "a70fee9add11a": [
+        "add_and_subtract_monomials"
+    ],
+    "a70fee9add12a": [
+        "add_and_subtract_monomials"
+    ],
+    "a70fee9add13a": [
+        "add_and_subtract_monomials"
+    ],
+    "a70fee9add14a": [
+        "add_and_subtract_monomials"
+    ],
+    "a70fee9add15a": [
+        "add_and_subtract_monomials"
+    ],
+    "a70fee9add21a": [
+        "identify_polynomials",
+        "monomials",
+        "binomials_and_trinomials"
+    ],
+    "a70fee9add22a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a70fee9add23a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a70fee9add24a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a70fee9add25a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a70fee9add26a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a70fee9add27a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a70fee9add28a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a70fee9add29a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a70fee9add30a": [
+        "add_and_subtract_polynomials"
+    ],
+    "a70fee9add8a": [
+        "add_and_subtract_monomials"
+    ],
+    "a70fee9add9a": [
+        "add_and_subtract_monomials"
+    ],
+    "a70fee9use10a": [
+        "evaluate_an_expression"
+    ],
+    "a70fee9use10b": [
+        "evaluate_an_expression"
+    ],
+    "a70fee9use11a": [
+        "evaluate_an_expression"
+    ],
+    "a70fee9use12a": [
+        "evaluate_an_expression"
+    ],
+    "a70fee9use13a": [
+        "identify_and_combine_like_terms"
+    ],
+    "a70fee9use13b": [
+        "identify_and_combine_like_terms"
+    ],
+    "a70fee9use13c": [
+        "identify_and_combine_like_terms"
+    ],
+    "a70fee9use14a": [
+        "identify_and_combine_like_terms"
+    ],
+    "a70fee9use14b": [
+        "identify_and_combine_like_terms"
+    ],
+    "a70fee9use14c": [
+        "identify_and_combine_like_terms"
+    ],
+    "a70fee9use15a": [
+        "identify_and_combine_like_terms"
+    ],
+    "a70fee9use16a": [
+        "identify_and_combine_like_terms"
+    ],
+    "a70fee9use5a": [
+        "identify_and_combine_like_terms"
+    ],
+    "a70fee9use6a": [
+        "identify_and_combine_like_terms"
+    ],
+    "a70fee9use6b": [
+        "identify_and_combine_like_terms"
+    ],
+    "a70fee9use7a": [
+        "evaluate_an_expression"
+    ],
+    "a70fee9use7b": [
+        "evaluate_an_expression"
+    ],
+    "a70fee9use8a": [
+        "evaluate_an_expression"
+    ],
+    "a70fee9use8b": [
+        "evaluate_an_expression"
+    ],
+    "a70fee9use9a": [
+        "evaluate_an_expression"
+    ],
+    "a70fee9use9b": [
+        "evaluate_an_expression"
+    ],
+    "a31bc1bFormula22a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a31bc1bFormula22b": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a31bc1bFormula23a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a31bc1bFormula24a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a31bc1bFormula25a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a31bc1bFormula26a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a31bc1bFormula27a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a31bc1bFormula28a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a31bc1bFormula29a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a31bc1bFormula30a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a31bc1bFormula31a": [
+        "solve_a_formula_for_a_specific_variable"
+    ],
+    "a31bc1bGenStr1a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr10a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr11a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr12a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr13a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr14a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr15a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr16a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr17a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr18a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr19a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr2a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr3a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr4a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr5a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr6a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr7a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr8a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a31bc1bGenStr9a": [
+        "solve_equations_using_the_general_strategy"
+    ],
+    "a85f143Inequality1a": [
+        "solving_compound_inequalities"
+    ],
+    "a85f143Inequality2a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "a85f143Inequality3a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "a85f143Inequality4a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "a85f143Inequality5a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "a85f143Inequality6a": [
+        "solve_compound_inequalities_with_or"
+    ],
+    "a85f143Inequality7a": [
+        "solve_compound_inequalities_with_or"
+    ],
+    "a85f143inequalities10a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a85f143inequalities11a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a85f143inequalities12a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a85f143inequalities13a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a85f143inequalities14a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a85f143inequalities15a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a85f143inequalities16a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a85f143inequalities17a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a85f143inequalities18a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a85f143inequalities4a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a85f143inequalities5a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a85f143inequalities6a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "a85f143inequalities7a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a85f143inequalities8a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a85f143inequalities9a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "a85f143linear10a": [
+        "solve_linear_inequalities"
+    ],
+    "a85f143linear11a": [
+        "solve_linear_inequalities"
+    ],
+    "a85f143linear12a": [
+        "solve_linear_inequalities"
+    ],
+    "a85f143linear13a": [
+        "solve_linear_inequalities"
+    ],
+    "a85f143linear14a": [
+        "solve_linear_inequalities"
+    ],
+    "a85f143linear7a": [
+        "solve_linear_inequalities"
+    ],
+    "a85f143linear8a": [
+        "solve_linear_inequalities"
+    ],
+    "a85f143linear9a": [
+        "solve_linear_inequalities"
+    ],
+    "ae8e9cfRational10a": [
+        "multiply_rational_expressions"
+    ],
+    "ae8e9cfRational11a": [
+        "multiply_rational_expressions"
+    ],
+    "ae8e9cfRational12a": [
+        "multiply_rational_expressions"
+    ],
+    "ae8e9cfRational13a": [
+        "determine_the_values_for_which_a_rational_expression_is_undefined"
+    ],
+    "ae8e9cfRational14a": [
+        "determine_the_values_for_which_a_rational_expression_is_undefined"
+    ],
+    "ae8e9cfRational15a": [
+        "multiply_and_divide_rational_functions"
+    ],
+    "ae8e9cfRational3a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfRational4a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfRational5a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfRational6a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfRational7a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfRational8a": [
+        "simplify_rational_expressions"
+    ],
+    "ae8e9cfRational9a": [
+        "multiply_rational_expressions"
+    ],
+    "ae8e9cfrational1a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrational2a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrational3a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrational4a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrational5a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrational6a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrational7a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrational8a": [
+        "add_rational_expressions_with_a_common_denominator"
+    ],
+    "ae8e9cfrationaldenom1a": [
+        "find_equivalent_rational_expressions"
+    ],
+    "ae8e9cfrationaldenom2a": [
+        "find_equivalent_rational_expressions"
+    ],
+    "ae8e9cfrationaldenom3a": [
+        "find_equivalent_rational_expressions"
+    ],
+    "ae8e9cfrationaldenom4a": [
+        "find_equivalent_rational_expressions"
+    ],
+    "ae8e9cfrationaldenom5a": [
+        "find_equivalent_rational_expressions"
+    ],
+    "ae8e9cfrationaldenom6a": [
+        "add_rational_expressions_with_different_denominators"
+    ],
+    "ae8e9cfrationaldenom7a": [
+        "add_rational_expressions_with_different_denominators"
+    ],
+    "ae8e9cfrationaldenom8a": [
+        "add_rational_expressions_with_different_denominators"
+    ],
+    "ae8e9cfrationaldenom9a": [
+        "add_rational_expressions_with_different_denominators"
+    ],
+    "a27f9f4Polynomial1a": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4Polynomial1b": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4Polynomial1c": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4Polynomial1d": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4Polynomial1e": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4Polynomial2a": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4Polynomial2b": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4Polynomial2c": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4Polynomial2d": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4Polynomial2e": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add1a": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add1b": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add1c": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add1d": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add1e": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add2a": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add2b": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add2c": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add2d": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add2e": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add3a": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add3b": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add3c": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add3d": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add3e": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add4a": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add4b": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add4c": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add4d": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add4e": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "a27f9f4add5a": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add5b": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add5c": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add5d": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add5e": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add6a": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add6b": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add6c": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add6d": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add6e": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add7a": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add7b": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add7c": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add7d": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4add7e": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "a27f9f4power1a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "a27f9f4power10a": [
+        "comparing_smooth_and_continuous_graphs"
+    ],
+    "a27f9f4power11a": [
+        "identifiying_power_functions"
+    ],
+    "a27f9f4power12a": [
+        "identifiying_power_functions"
+    ],
+    "a27f9f4power13a": [
+        "identifiying_power_functions"
+    ],
+    "a27f9f4power14a": [
+        "identifiying_power_functions"
+    ],
+    "a27f9f4power15a": [
+        "identifiying_power_functions"
+    ],
+    "a27f9f4power16a": [
+        "identifiying_power_functions"
+    ],
+    "a27f9f4power17a": [
+        "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function"
+    ],
+    "a27f9f4power18a": [
+        "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function"
+    ],
+    "a27f9f4power19a": [
+        "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function"
+    ],
+    "a27f9f4power2a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "a27f9f4power20a": [
+        "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function"
+    ],
+    "a27f9f4power21a": [
+        "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function"
+    ],
+    "a27f9f4power3a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "a27f9f4power4a": [
+        "identifiying_local_behavior_of_polynomial_functions"
+    ],
+    "a27f9f4power5a": [
+        "identifiying_local_behavior_of_polynomial_functions"
+    ],
+    "a27f9f4power6a": [
+        "comparing_smooth_and_continuous_graphs"
+    ],
+    "a27f9f4power7a": [
+        "comparing_smooth_and_continuous_graphs"
+    ],
+    "a27f9f4power8a": [
+        "comparing_smooth_and_continuous_graphs"
+    ],
+    "a27f9f4power9a": [
+        "comparing_smooth_and_continuous_graphs"
+    ],
+    "ab1abdepower1a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "ab1abdepower10a": [
+        "comparing_smooth_and_continuous_graphs"
+    ],
+    "ab1abdepower11a": [
+        "identifiying_power_functions"
+    ],
+    "ab1abdepower12a": [
+        "identifiying_power_functions"
+    ],
+    "ab1abdepower13a": [
+        "identifiying_power_functions"
+    ],
+    "ab1abdepower14a": [
+        "identifiying_power_functions"
+    ],
+    "ab1abdepower15a": [
+        "identifiying_power_functions"
+    ],
+    "ab1abdepower16a": [
+        "identifiying_power_functions"
+    ],
+    "ab1abdepower17a": [
+        "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function"
+    ],
+    "ab1abdepower18a": [
+        "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function"
+    ],
+    "ab1abdepower19a": [
+        "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function"
+    ],
+    "ab1abdepower2a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "ab1abdepower20a": [
+        "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function"
+    ],
+    "ab1abdepower21a": [
+        "identifiying_the_degree_and_leading_coefficient_of_a_polynomial_function"
+    ],
+    "ab1abdepower27a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "ab1abdepower28a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "ab1abdepower29a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "ab1abdepower3a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "ab1abdepower30a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "ab1abdepower31a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "ab1abdepower32a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "ab1abdepower33a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "ab1abdepower34a": [
+        "identifiying_end_behavior_of_power_functions"
+    ],
+    "ab1abdepower35a": [
+        "identifiying_local_behavior_of_polynomial_functions"
+    ],
+    "ab1abdepower4a": [
+        "identifiying_local_behavior_of_polynomial_functions"
+    ],
+    "ab1abdepower5a": [
+        "identifiying_local_behavior_of_polynomial_functions"
+    ],
+    "ab1abdepower6a": [
+        "comparing_smooth_and_continuous_graphs"
+    ],
+    "ab1abdepower7a": [
+        "comparing_smooth_and_continuous_graphs"
+    ],
+    "ab1abdepower8a": [
+        "comparing_smooth_and_continuous_graphs"
+    ],
+    "ab1abdepower9a": [
+        "comparing_smooth_and_continuous_graphs"
+    ],
+    "ae63c0cInequality2a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "ae63c0cInequality3a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "ae63c0cInequality4a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "ae63c0cInequality5a": [
+        "solve_compound_inequalities_with_and"
+    ],
+    "ae63c0cInequality6a": [
+        "solve_compound_inequalities_with_or"
+    ],
+    "ae63c0cInequality7a": [
+        "solve_compound_inequalities_with_or"
+    ],
+    "ae63c0cInequality8a": [
+        "solve_compound_inequalities_with_or"
+    ],
+    "ae63c0cInequality9a": [
+        "solve_compound_inequalities_with_or"
+    ],
+    "ae63c0cinequalities1a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0cinequalities1b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0cinequalities1c": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0cinequalities10a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "ae63c0cinequalities11a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "ae63c0cinequalities12a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "ae63c0cinequalities13a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "ae63c0cinequalities14a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "ae63c0cinequalities15a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "ae63c0cinequalities2a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0cinequalities2b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0cinequalities2c": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0cinequalities3a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0cinequalities3b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0cinequalities3c": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0cinequalities4a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "ae63c0cinequalities5a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "ae63c0cinequalities6a": [
+        "solve_inequalities_using_the_subtraction_and_addition_properties_of_inequality"
+    ],
+    "ae63c0cinequalities7a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "ae63c0cinequalities8a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "ae63c0cinequalities9a": [
+        "solve_inequalities_using_the_division_and_multiplication_properties_of_inequality"
+    ],
+    "ae63c0clinear1a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear1b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear1c": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear2a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear2b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear2c": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear3a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear3b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear3c": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear5a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear5b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear5c": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear6a": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear6b": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear6c": [
+        "graph_inequalities_on_the_number_line"
+    ],
+    "ae63c0clinear7a": [
+        "solve_linear_inequalities"
+    ],
+    "af21ad9MultiplyPoly1a": [
+        "multiply_monomials"
+    ],
+    "af21ad9MultiplyPoly1b": [
+        "multiply_monomials"
+    ],
+    "af21ad9MultiplyPoly2a": [
+        "multiply_monomials"
+    ],
+    "af21ad9MultiplyPoly2b": [
+        "multiply_monomials"
+    ],
+    "af21ad9MultiplyPoly3a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "af21ad9MultiplyPoly3b": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "af21ad9MultiplyPoly4a": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "af21ad9MultiplyPoly4b": [
+        "multiply_a_polynomial_by_a_monomial"
+    ],
+    "af21ad9MultiplyPoly5a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "af21ad9MultiplyPoly5b": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "af21ad9MultiplyPoly6a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "af21ad9MultiplyPoly6b": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "af21ad9MultiplyPoly7a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "af21ad9MultiplyPoly7b": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "af21ad9MultiplyPoly8a": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "af21ad9MultiplyPoly8b": [
+        "multiply_a_binomial_by_a_binomial"
+    ],
+    "af21ad9add1a": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add1b": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add1c": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add1d": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add1e": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add10a": [
+        "add_and_subtract_monomials"
+    ],
+    "af21ad9add11a": [
+        "add_and_subtract_monomials"
+    ],
+    "af21ad9add12a": [
+        "add_and_subtract_monomials"
+    ],
+    "af21ad9add13a": [
+        "add_and_subtract_monomials"
+    ],
+    "af21ad9add14a": [
+        "add_and_subtract_monomials"
+    ],
+    "af21ad9add15a": [
+        "add_and_subtract_monomials"
+    ],
+    "af21ad9add2a": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add2b": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add2c": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add2d": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add2e": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add3a": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add3b": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add3c": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add3d": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add3e": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add4a": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add4b": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add4c": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add4d": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add4e": [
+        "identify_polynomials",
+        "monomials",
+        "binomials",
+        "and_trinomials"
+    ],
+    "af21ad9add5a": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add5b": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add5c": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add5d": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add5e": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add6a": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add6b": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add6c": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add6d": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add6e": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add7a": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add7b": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add7c": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add7d": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add7e": [
+        "determine_the_degree_of_polynomials"
+    ],
+    "af21ad9add8a": [
+        "add_and_subtract_monomials"
+    ],
+    "af21ad9add9a": [
+        "add_and_subtract_monomials"
+    ],
+    "af21ad9poly1a": [
+        "divide_a_polynomial_by_a_monomial"
+    ],
+    "af21ad9poly2a": [
+        "divide_a_polynomial_by_a_monomial"
+    ],
+    "af21ad9poly3a": [
+        "divide_a_polynomial_by_a_monomial"
+    ],
+    "af21ad9poly4a": [
+        "divide_a_polynomial_by_a_monomial"
+    ],
+    "af21ad9poly5a": [
+        "divide_a_polynomial_by_a_monomial"
+    ],
+    "af21ad9poly6a": [
+        "divide_a_polynomial_by_a_monomial"
+    ],
+    "af21ad9poly7a": [
+        "divide_a_polynomial_by_a_monomial"
+    ],
+    "a5dd108exe15a": [
+        "factor_trinomials_of_the_form_x**2_+_bx_+_c"
+    ],
+    "a5dd108exe16a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe17a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe18a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe19a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe20a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe21a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe22a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe23a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe24a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe25a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe26a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe27a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe28a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe29a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108exe30a": [
+        "factor_trinomials_of_the_form_x**2+bx+c"
+    ],
+    "a5dd108factoring1a": [
+        "factor_perfect_square_trinomials"
+    ],
+    "a5dd108factoring2a": [
+        "factor_perfect_square_trinomials"
+    ],
+    "a5dd108factoring2b": [
+        "factor_perfect_square_trinomials"
+    ],
+    "a5dd108factoring3a": [
+        "factor_perfect_square_trinomials"
+    ],
+    "a5dd108factoring3b": [
+        "factor_perfect_square_trinomials"
+    ],
+    "a5dd108factoring4a": [
+        "factor_perfect_square_trinomials"
+    ],
+    "a5dd108factoring4b": [
+        "factor_perfect_square_trinomials"
+    ],
+    "a5dd108factoring5a": [
+        "factor_perfect_square_trinomials"
+    ],
+    "a5dd108factoring5b": [
+        "factor_perfect_square_trinomials"
+    ],
+    "a5dd108factoringpoly10a": [
+        "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely"
+    ],
+    "a5dd108factoringpoly12a": [
+        "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely"
+    ],
+    "a5dd108factoringpoly14a": [
+        "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely"
+    ],
+    "a5dd108factoringpoly15a": [
+        "recognize_and_use_the_appropriate_method_to_factor_a_polynomial_completely"
+    ],
+    "a5dd108gcf1a": [
+        "finding_the_greatest_common_factor_of_two_or_more_expressions"
+    ],
+    "a5dd108gcf2a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a5dd108gcf5a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a5dd108gcf7a": [
+        "factor_by_grouping"
+    ],
+    "a5dd108gcf8a": [
+        "factor_by_grouping"
+    ],
+    "a5dd108gcf9a": [
+        "factor_by_grouping"
+    ],
+    "a5dd108gre1a": [
+        "find_the_greatest_common_factor_of_two_or_more_expressions"
+    ],
+    "a5dd108gre2a": [
+        "find_the_greatest_common_factor_of_two_or_more_expressions"
+    ],
+    "a5dd108gre29a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a5dd108gre3a": [
+        "find_the_greatest_common_factor_of_two_or_more_expressions"
+    ],
+    "a5dd108gre30a": [
+        "factor_the_greatest_common_factor_from_a_polynomial"
+    ],
+    "a5dd108gre4a": [
+        "find_the_greatest_common_factor_of_two_or_more_expressions"
+    ],
+    "a5dd108gre5a": [
+        "find_the_greatest_common_factor_of_two_or_more_expressions"
+    ],
+    "af0b12cCompletingSqr1a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cCompletingSqr10a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cCompletingSqr11a": [
+        "solve_quadratic_equations_of_the_form_x**2_+_bx_+_c_=_0_by_completing_the_square"
+    ],
+    "af0b12cCompletingSqr12a": [
+        "solve_quadratic_equations_of_the_form_x**2_+_bx_+_c_=_0_by_completing_the_square"
+    ],
+    "af0b12cCompletingSqr13a": [
+        "solve_quadratic_equations_of_the_form_x**2_+_bx_+_c_=_0_by_completing_the_square"
+    ],
+    "af0b12cCompletingSqr14a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cCompletingSqr15a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cCompletingSqr2a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cCompletingSqr3a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cCompletingSqr4a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cCompletingSqr5a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cCompletingSqr6a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cCompletingSqr7a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cCompletingSqr8a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cCompletingSqr9a": [
+        "complete_the_square_of_a_binomial_expression"
+    ],
+    "af0b12cSquare10a": [
+        "solve_quadratic_equations_by_completing_the_square"
+    ],
+    "af0b12cSquare11a": [
+        "solve_quadratic_equations_by_completing_the_square"
+    ],
+    "af0b12cSquare12a": [
+        "solve_quadratic_equations_by_completing_the_square"
+    ],
+    "af0b12cSquare13a": [
+        "solve_quadratic_equations_by_completing_the_square"
+    ],
+    "af0b12cSquare14a": [
+        "solve_quadratic_equations_by_completing_the_square"
+    ],
+    "af0b12cSquare15a": [
+        "solve_quadratic_equations_by_completing_the_square"
+    ],
+    "af0b12cSquare16a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cSquare17a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cSquare18a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cSquare19a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cSquare20a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cSquare20b": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cSquare21a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cSquare22a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cSquare23a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cSquare24a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cSquare25a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cSquare26a": [
+        "solve_quadratic_equations_using_the_quadratic_formula"
+    ],
+    "af0b12cgaussian20a": [
+        "solve_quadratic_equations_by_factoring"
+    ],
+    "af0b12cgaussian21a": [
+        "solve_quadratic_equations_by_factoring"
+    ],
+    "af0b12cgaussian22a": [
+        "solve_quadratic_equations_by_factoring"
+    ],
+    "af0b12cgaussian23a": [
+        "solve_quadratic_equations_by_factoring"
+    ],
+    "af0b12cgaussian24a": [
+        "solve_quadratic_equations_by_factoring"
+    ],
+    "af0b12cgaussian28a": [
+        "solve_quadratic_equations_by_factoring"
+    ],
+    "af0b12cgaussian29a": [
+        "solve_quadratic_equations_by_factoring"
+    ],
+    "af0b12cgaussian30a": [
+        "solve_quadratic_equations_by_factoring"
+    ],
+    "a4dc64fsqroots11a": [
+        "rationalize_a_one_term_denominator"
+    ],
+    "a4dc64fsqroots12a": [
+        "rationalize_a_one_term_denominator"
+    ],
+    "a4dc64fsqroots13a": [
+        "rationalize_a_one_term_denominator"
+    ],
+    "a4dc64fsqroots14a": [
+        "rationalize_a_two_term_denominator"
+    ],
+    "a4dc64fsqroots15a": [
+        "rationalize_a_two_term_denominator"
+    ],
+    "a4dc64fsqroots16a": [
+        "rationalize_a_two_term_denominator"
+    ],
+    "a4dc64fsqroots17a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots18a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots19a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots20a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots21a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots22a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots23a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots24a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots25a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots26a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots27a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots28a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots29a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsqroots30a": [
+        "divide_square_roots"
+    ],
+    "a4dc64fsquareroots15a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots16a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots17a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots18a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots19a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots20a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots21a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots22a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots23a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots24a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots25a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots26a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots27a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots28a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots29a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "a4dc64fsquareroots30a": [
+        "add_and_subtract_like_square_roots"
+    ],
+    "ab35892radical1a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical10a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical11a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical12a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical13a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical14a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical15a": [
+        "use_the_quotient_property_to_simplify_square_roots"
+    ],
+    "ab35892radical16a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical17a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical18a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical19a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical2a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical20a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical21a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical22a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical23a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical24a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical25a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical26a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical27a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical28a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical29a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical3a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical30a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical31a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical4a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical5a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical6a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical7a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical8a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "ab35892radical9a": [
+        "use_the_product_property_to_simplify_square_roots"
+    ],
+    "a9bee85sqroots12a": [
+        "rationalize_a_one_term_denominator"
+    ],
+    "a9bee85sqroots13a": [
+        "rationalize_a_one_term_denominator"
+    ],
+    "a179588expprop1a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop10a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop11a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop12a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop13a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop14a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop15a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop16a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop16b": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop17a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop17b": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop18a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop18b": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop19a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop19b": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop2a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop20a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop21a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop22a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop23a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop24a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop24b": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop25a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop25b": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop26a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop26b": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop27a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop27b": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop28a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop28b": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop29a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop29b": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop3a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop30a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop30b": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop4a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop5a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop6a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop7a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop8a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "a179588expprop9a": [
+        "simplify_expressions_using_the_properties_for_exponents"
+    ],
+    "ade8ce7domain1a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain10a": [
+        "finding_domains_and_ranges_of_the_toolkit_functions"
+    ],
+    "ade8ce7domain10b": [
+        "finding_domains_and_ranges_of_the_toolkit_functions"
+    ],
+    "ade8ce7domain11a": [
+        "graphing_piecewise_defined_functions"
+    ],
+    "ade8ce7domain12a": [
+        "graphing_piecewise_defined_functions"
+    ],
+    "ade8ce7domain12b": [
+        "graphing_piecewise_defined_functions"
+    ],
+    "ade8ce7domain13a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain14a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain15a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain16a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain17a": [
+        "finding_domain_and_range_from_graphs"
+    ],
+    "ade8ce7domain17b": [
+        "finding_domain_and_range_from_graphs"
+    ],
+    "ade8ce7domain18a": [
+        "finding_domains_and_ranges_of_the_toolkit_functions"
+    ],
+    "ade8ce7domain18b": [
+        "finding_domains_and_ranges_of_the_toolkit_functions"
+    ],
+    "ade8ce7domain19a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain2a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain20a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain21a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain22a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain23a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain24a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain25a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain26a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain27a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain28a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain29a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain3a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain30a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain31a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain32a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain33a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain4a": [
+        "finding_the_domain_of_a_function_defined_by_an_equation"
+    ],
+    "ade8ce7domain5a": [
+        "using_notations_to_specify_domain_and_range"
+    ],
+    "ade8ce7domain5b": [
+        "using_notations_to_specify_domain_and_range"
+    ],
+    "ade8ce7domain5c": [
+        "using_notations_to_specify_domain_and_range"
+    ],
+    "ade8ce7domain6a": [
+        "finding_domain_and_range_from_graphs"
+    ],
+    "ade8ce7domain6b": [
+        "finding_domain_and_range_from_graphs"
+    ],
+    "ade8ce7domain7a": [
+        "using_notations_to_specify_domain_and_range"
+    ],
+    "ade8ce7domain7b": [
+        "using_notations_to_specify_domain_and_range"
+    ],
+    "ade8ce7domain8a": [
+        "finding_domains_and_ranges_of_the_toolkit_functions"
+    ],
+    "ade8ce7domain8b": [
+        "finding_domains_and_ranges_of_the_toolkit_functions"
+    ],
+    "ade8ce7domain9a": [
+        "finding_domains_and_ranges_of_the_toolkit_functions"
+    ],
+    "ade8ce7domain9b": [
+        "finding_domains_and_ranges_of_the_toolkit_functions"
+    ],
+    "a97d67fcoordinates1a": [
+        "plot_points_on_a_rectangular_coordinate_system"
+    ],
+    "a97d67fcoordinates10a": [
+        "verify_solutions_to_an_equation_in_two_variables"
+    ],
+    "a97d67fcoordinates11a": [
+        "complete_a_table_of_solutions_to_a_linear_equation_in_two_variables"
+    ],
+    "a97d67fcoordinates12a": [
+        "complete_a_table_of_solutions_to_a_linear_equation_in_two_variables"
+    ],
+    "a97d67fcoordinates13a": [
+        "complete_a_table_of_solutions_to_a_linear_equation_in_two_variables"
+    ],
+    "a97d67fcoordinates14a": [
+        "complete_a_table_of_solutions_to_a_linear_equation_in_two_variables"
+    ],
+    "a97d67fcoordinates15a": [
+        "complete_a_table_of_solutions_to_a_linear_equation_in_two_variables"
+    ],
+    "a97d67fcoordinates16a": [
+        "verify_solutions_to_an_equation_in_two_variables"
+    ],
+    "a97d67fcoordinates2a": [
+        "plot_points_on_a_rectangular_coordinate_system"
+    ],
+    "a97d67fcoordinates3a": [
+        "plot_points_on_a_rectangular_coordinate_system"
+    ],
+    "a97d67fcoordinates4a": [
+        "plot_points_on_a_rectangular_coordinate_system"
+    ],
+    "a97d67fcoordinates5a": [
+        "plot_points_on_a_rectangular_coordinate_system"
+    ],
+    "a97d67fcoordinates6a": [
+        "verify_solutions_to_an_equation_in_two_variables"
+    ],
+    "a97d67fcoordinates7a": [
+        "verify_solutions_to_an_equation_in_two_variables"
+    ],
+    "a97d67fcoordinates8a": [
+        "verify_solutions_to_an_equation_in_two_variables"
+    ],
+    "a97d67fcoordinates9a": [
+        "verify_solutions_to_an_equation_in_two_variables"
+    ],
+    "a7104fcdistance1a": [
+        "use_the_distance_formula"
+    ],
+    "a7104fcdistance10a": [
+        "use_the_distance_formula"
+    ],
+    "a7104fcdistance11a": [
+        "use_the_distance_formula"
+    ],
+    "a7104fcdistance12a": [
+        "use_the_distance_formula"
+    ],
+    "a7104fcdistance13a": [
+        "use_the_midpoint_formula"
+    ],
+    "a7104fcdistance14a": [
+        "use_the_midpoint_formula"
+    ],
+    "a7104fcdistance15a": [
+        "use_the_midpoint_formula"
+    ],
+    "a7104fcdistance16a": [
+        "use_the_midpoint_formula"
+    ],
+    "a7104fcdistance2a": [
+        "use_the_distance_formula"
+    ],
+    "a7104fcdistance3a": [
+        "use_the_distance_formula"
+    ],
+    "a7104fcdistance4a": [
+        "use_the_distance_formula"
+    ],
+    "a7104fcdistance5a": [
+        "use_the_distance_formula"
+    ],
+    "a7104fcdistance6a": [
+        "use_the_distance_formula"
+    ],
+    "a7104fcdistance7a": [
+        "use_the_distance_formula"
+    ],
+    "a7104fcdistance8a": [
+        "use_the_distance_formula"
+    ],
+    "a7104fcdistance9a": [
+        "use_the_distance_formula"
+    ],
+    "a70ee94geo2a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a70ee94geo3a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a70ee94pyth1a": [
+        "solve_applications_using_properties_of_triangles"
+    ],
+    "a7c96ccLinEqua27a": [
+        "determining_whether_graphs_of_lines_are_parallel_or_perpendicular"
+    ],
+    "a7c96ccLinEqua28a": [
+        "determining_whether_graphs_of_lines_are_parallel_or_perpendicular"
+    ],
+    "a7c96ccLinEqua28b": [
+        "determining_whether_graphs_of_lines_are_parallel_or_perpendicular"
+    ],
+    "a7c96ccLinEqua29a": [
+        "writing_the_equation_of_lines_parallel_or_perpendicular_to_a_given_line"
+    ],
+    "a7c96ccLinEqua30a": [
+        "writing_the_equation_of_lines_parallel_or_perpendicular_to_a_given_line"
+    ],
+    "a7c96ccLinEqua31a": [
+        "writing_the_equation_of_lines_parallel_or_perpendicular_to_a_given_line"
+    ],
+    "a7c96ccslope14a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a7c96ccslope15a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a7c96ccslope16a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a7c96ccslope17a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a7c96ccslope18a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a7c96ccslope19a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a7c96ccslope20a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a7c96ccslope21a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a7c96ccslope22a": [
+        "use_slopes_to_identify_parallel_lines"
+    ],
+    "a7c96ccslope23a": [
+        "use_slopes_to_identify_perpendicular_lines"
+    ],
+    "a7c96ccslope24a": [
+        "use_slopes_to_identify_perpendicular_lines"
+    ],
+    "a7c96ccslope25a": [
+        "use_slopes_to_identify_perpendicular_lines"
+    ],
+    "a7c96ccslope26a": [
+        "use_slopes_to_identify_perpendicular_lines"
+    ],
+    "a7c96ccslope27a": [
+        "use_slopes_to_identify_perpendicular_lines"
+    ],
+    "a7c96ccslope28a": [
+        "use_slopes_to_identify_perpendicular_lines"
+    ],
+    "a7c96ccslope29a": [
+        "use_slopes_to_identify_perpendicular_lines"
+    ],
+    "a7c96ccslope30a": [
+        "use_slopes_to_identify_perpendicular_lines"
     ]
 }
